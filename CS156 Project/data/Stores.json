@@ -1,0 +1,57 @@
+[
+  {
+    "storeCode": "twbh9w",
+    "managerCode": "i4uwyg",
+    "address": {
+      "street": "11 Southridge Street",
+      "city": "Philadelphia",
+      "state": "Pennsylvania",
+      "zip": "84749",
+      "county": "United States"
+    }
+  },
+  {
+    "storeCode": "xappbo",
+    "managerCode": "6hfyfs",
+    "address": {
+      "street": "9454 Susan Alley",
+      "city": "Raheny",
+      "state": "Lincoln",
+      "zip": "61613",
+      "county": "Ireland"
+    }
+  },
+  {
+    "storeCode": "emwtm1",
+    "managerCode": "cfiyus",
+    "address": {
+      "street": "35 Dahle Hill",
+      "city": "Chicama",
+      "state": "Topeka",
+      "zip": "48926",
+      "county": "Peru"
+    }
+  },
+  {
+    "storeCode": "ytm8yk",
+    "managerCode": "wxj9od",
+    "address": {
+      "street": "9102 Pine View Junction",
+      "city": "Horgo",
+      "state": "San Francisco",
+      "zip": "91984",
+      "county": "Mongolia"
+    }
+  },
+  {
+    "storeCode": "8k7lfo",
+    "managerCode": "5bkim5",
+    "address": {
+      "street": "17271 Farragut Alley",
+      "city": "Kuching",
+      "state": "Sarawak",
+      "zip": "22750",
+      "county": "Malaysia"
+    }
+  }
+]

@@ -1,0 +1,2320 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<com.yattasolutions.uml.diagrams.classifier:ClassDiagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:com.yattasolutions.diagrams="http://ns.yatta-solutions.com/umllab/diagrams/1.1.0" xmlns:com.yattasolutions.uml.diagrams.classifier="http://ns.yatta-solutions.com/umllab/diagrams/classifier/1.1.0" xmi:id="_fAh2gPE6Ee2C-a5UzEGj-g">
+  <modelElement href="CS156%20Project.uml#_fIT5gPE6Ee2C-a5UzEGj-g"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_hcuMIPE6Ee2C-a5UzEGj-g" targetItem="_hcvaQPE6Ee2C-a5UzEGj-g" sourceItem="_hcWYsPE6Ee2C-a5UzEGj-g"/>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_heAlkPE6Ee2C-a5UzEGj-g" targetItem="_heBMovE6Ee2C-a5UzEGj-g" sourceItem="_hd_-gPE6Ee2C-a5UzEGj-g"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_heAlkfE6Ee2C-a5UzEGj-g" sourceAnchor="62.0,0.0" targetAnchor="126.0,149.0" superClass="_hhsLsPE6Ee2C-a5UzEGj-g" subClass="_heBMovE6Ee2C-a5UzEGj-g">
+    <modelElement href="CS156%20Project.uml#_fJj2sPE6Ee2C-a5UzEGj-g"/>
+    <bendpoints xmi:id="_E28pFPE7Ee2C-a5UzEGj-g" sourceY="-19" targetX="275" targetY="17"/>
+    <bendpoints xmi:id="_E28pFfE7Ee2C-a5UzEGj-g" sourceX="-274" sourceY="-36" targetX="1"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_heBMofE6Ee2C-a5UzEGj-g" targetItem="_hhsLsPE6Ee2C-a5UzEGj-g" sourceItem="_heBMoPE6Ee2C-a5UzEGj-g"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_heTggPE6Ee2C-a5UzEGj-g" sourceAnchor="260.0,157.0" targetAnchor="0.0,166.0" target="_hembcPE6Ee2C-a5UzEGj-g" source="_hgtUQPE6Ee2C-a5UzEGj-g">
+    <modelElement href="CS156%20Project.uml#_fKLhxvE6Ee2C-a5UzEGj-g"/>
+    <stereotypes xmi:id="_heVVs_E6Ee2C-a5UzEGj-g" name="Reference">
+      <modelElement href="CS156%20Project.uml#_fKLhyPE6Ee2C-a5UzEGj-g"/>
+    </stereotypes>
+    <nameVisual xmi:id="_heVVsPE6Ee2C-a5UzEGj-g" text="">
+      <visualProperties xmi:id="_hyHNVfE6Ee2C-a5UzEGj-g" position="-9.0,2.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_heVVsfE6Ee2C-a5UzEGj-g" aggregationKind="NONE" name="">
+      <modelElement href="CS156%20Project.uml#_fKLhx_E6Ee2C-a5UzEGj-g"/>
+      <visualProperties xmi:id="_hyHNVPE6Ee2C-a5UzEGj-g" position="11.0,-43.0"/>
+      <visibility xmi:id="_heV8wfE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_heV8wPE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_heVVsvE6Ee2C-a5UzEGj-g" aggregationKind="NONE" name="elements" navigable="true">
+      <modelElement href="CS156%20Project.uml#_fJygRfE6Ee2C-a5UzEGj-g"/>
+      <visualProperties xmi:id="_hyHNVvE6Ee2C-a5UzEGj-g" position="-80.0,-43.0"/>
+      <stereotypes xmi:id="_heV8xPE6Ee2C-a5UzEGj-g" name="Array">
+        <modelElement href="CS156%20Project.uml#_fJygR_E6Ee2C-a5UzEGj-g"/>
+      </stereotypes>
+      <stereotypes xmi:id="_heV8xfE6Ee2C-a5UzEGj-g" name="LegacyStyledElement">
+        <modelElement href="CS156%20Project.uml#_fJygSPE6Ee2C-a5UzEGj-g"/>
+      </stereotypes>
+      <visibility xmi:id="_heV8w_E6Ee2C-a5UzEGj-g" label="-"/>
+      <cardinality xmi:id="_heV8wvE6Ee2C-a5UzEGj-g" label="1..*" max="-1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_heUuoPE6Ee2C-a5UzEGj-g" sourceAnchor="328.0,151.0" targetAnchor="0.0,74.0" target="_hhy5YPE6Ee2C-a5UzEGj-g" source="_hembcPE6Ee2C-a5UzEGj-g">
+    <modelElement href="CS156%20Project.uml#_fKK6s_E6Ee2C-a5UzEGj-g"/>
+    <stereotypes xmi:id="_heVVt_E6Ee2C-a5UzEGj-g" name="Reference">
+      <modelElement href="CS156%20Project.uml#_fKK6tfE6Ee2C-a5UzEGj-g"/>
+    </stereotypes>
+    <nameVisual xmi:id="_heVVtPE6Ee2C-a5UzEGj-g" text="">
+      <visualProperties xmi:id="_hyGmRfE6Ee2C-a5UzEGj-g" position="-10.0,2.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_heVVtfE6Ee2C-a5UzEGj-g" aggregationKind="NONE" name="">
+      <modelElement href="CS156%20Project.uml#_fKK6tPE6Ee2C-a5UzEGj-g"/>
+      <visualProperties xmi:id="_hyGmRPE6Ee2C-a5UzEGj-g" position="11.0,2.0"/>
+      <visibility xmi:id="_heV8x_E6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_heV8xvE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_heVVtvE6Ee2C-a5UzEGj-g" aggregationKind="NONE" name="persons" navigable="true">
+      <modelElement href="CS156%20Project.uml#_fJx5KfE6Ee2C-a5UzEGj-g"/>
+      <visualProperties xmi:id="_hyGmRvE6Ee2C-a5UzEGj-g" position="-75.0,-43.0"/>
+      <visibility xmi:id="_heV8yfE6Ee2C-a5UzEGj-g" label="-"/>
+      <cardinality xmi:id="_heV8yPE6Ee2C-a5UzEGj-g" label="1..*" max="-1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_heV8y_E6Ee2C-a5UzEGj-g" source="_hembcPE6Ee2C-a5UzEGj-g">
+    <modelElement href="CS156%20Project.uml#_fKK6sPE6Ee2C-a5UzEGj-g"/>
+    <stereotypes xmi:id="_heV8zPE6Ee2C-a5UzEGj-g" name="Reference">
+      <modelElement href="CS156%20Project.uml#_fKK6svE6Ee2C-a5UzEGj-g"/>
+    </stereotypes>
+    <nameVisual xmi:id="_heV8zfE6Ee2C-a5UzEGj-g" text=""/>
+    <sourceRole xmi:id="_heV8zvE6Ee2C-a5UzEGj-g" aggregationKind="NONE" name="">
+      <modelElement href="CS156%20Project.uml#_fKK6sfE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_heV8z_E6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_heV80PE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_heV80fE6Ee2C-a5UzEGj-g" aggregationKind="NONE" name="invoiceDate" navigable="true">
+      <modelElement href="CS156%20Project.uml#_fJx5J_E6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_heV80vE6Ee2C-a5UzEGj-g" label="-"/>
+      <cardinality xmi:id="_heV80_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_heWj0PE6Ee2C-a5UzEGj-g" sourceAnchor="10.0,0.0" targetAnchor="236.0,339.0" target="_hgMW4PE6Ee2C-a5UzEGj-g" source="_hembcPE6Ee2C-a5UzEGj-g">
+    <modelElement href="CS156%20Project.uml#_fKK6tvE6Ee2C-a5UzEGj-g"/>
+    <stereotypes xmi:id="_heWj0fE6Ee2C-a5UzEGj-g" name="Reference">
+      <modelElement href="CS156%20Project.uml#_fKK6uPE6Ee2C-a5UzEGj-g"/>
+    </stereotypes>
+    <nameVisual xmi:id="_heWj0vE6Ee2C-a5UzEGj-g" text="">
+      <visualProperties xmi:id="_hyGmSPE6Ee2C-a5UzEGj-g" position="2.0,-14.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_heWj0_E6Ee2C-a5UzEGj-g" aggregationKind="NONE" name="">
+      <modelElement href="CS156%20Project.uml#_fKK6t_E6Ee2C-a5UzEGj-g"/>
+      <visualProperties xmi:id="_hyGmR_E6Ee2C-a5UzEGj-g" position="-16.0,-63.0"/>
+      <visibility xmi:id="_heWj1PE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_heWj1fE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_heWj1vE6Ee2C-a5UzEGj-g" aggregationKind="NONE" name="invoiceItems" navigable="true">
+      <modelElement href="CS156%20Project.uml#_fJx5LfE6Ee2C-a5UzEGj-g"/>
+      <visualProperties xmi:id="_hyHNUPE6Ee2C-a5UzEGj-g" position="-82.0,22.0"/>
+      <visibility xmi:id="_heWj1_E6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_heWj2PE6Ee2C-a5UzEGj-g" label="1..*" max="-1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_hfCgUPE6Ee2C-a5UzEGj-g" targetItem="_hfDucPE6Ee2C-a5UzEGj-g" sourceItem="_hfArIPE6Ee2C-a5UzEGj-g"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_hfqLYPE6Ee2C-a5UzEGj-g" sourceAnchor="276.0,162.0" targetAnchor="0.0,69.0" target="_hhsLsPE6Ee2C-a5UzEGj-g" source="_hgMW4PE6Ee2C-a5UzEGj-g">
+    <modelElement href="CS156%20Project.uml#_fKK6ufE6Ee2C-a5UzEGj-g"/>
+    <stereotypes xmi:id="_hgLIw_E6Ee2C-a5UzEGj-g" name="Reference">
+      <modelElement href="CS156%20Project.uml#_fKK6u_E6Ee2C-a5UzEGj-g"/>
+    </stereotypes>
+    <nameVisual xmi:id="_hgLIwPE6Ee2C-a5UzEGj-g" text="">
+      <visualProperties xmi:id="_hyHNUvE6Ee2C-a5UzEGj-g" position="-21.0,-17.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_hgLIwfE6Ee2C-a5UzEGj-g" aggregationKind="NONE" name="">
+      <modelElement href="CS156%20Project.uml#_fKK6uvE6Ee2C-a5UzEGj-g"/>
+      <visualProperties xmi:id="_hyHNUfE6Ee2C-a5UzEGj-g" position="13.0,-43.0"/>
+      <visibility xmi:id="_hgLv0fE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hgLv0PE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_hgLIwvE6Ee2C-a5UzEGj-g" aggregationKind="NONE" name="item" navigable="true">
+      <modelElement href="CS156%20Project.uml#_fJygNfE6Ee2C-a5UzEGj-g"/>
+      <visualProperties xmi:id="_hyHNU_E6Ee2C-a5UzEGj-g" position="-66.0,2.0"/>
+      <visibility xmi:id="_hgLv0_E6Ee2C-a5UzEGj-g" label="-"/>
+      <cardinality xmi:id="_hgLv0vE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_hgKhsfE6Ee2C-a5UzEGj-g" targetItem="_hgMW4PE6Ee2C-a5UzEGj-g" sourceItem="_hgKhsPE6Ee2C-a5UzEGj-g"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_hgLIxPE6Ee2C-a5UzEGj-g" source="_hgMW4PE6Ee2C-a5UzEGj-g">
+    <modelElement href="CS156%20Project.uml#_fKLhwPE6Ee2C-a5UzEGj-g"/>
+    <stereotypes xmi:id="_hgLv2PE6Ee2C-a5UzEGj-g" name="Reference">
+      <modelElement href="CS156%20Project.uml#_fKLhwvE6Ee2C-a5UzEGj-g"/>
+    </stereotypes>
+    <nameVisual xmi:id="_hgLv1fE6Ee2C-a5UzEGj-g" text=""/>
+    <sourceRole xmi:id="_hgLv1vE6Ee2C-a5UzEGj-g" aggregationKind="NONE" name="">
+      <modelElement href="CS156%20Project.uml#_fKLhwfE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hgLv3vE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hgLv3fE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_hgLv1_E6Ee2C-a5UzEGj-g" aggregationKind="NONE" name="startDate" navigable="true">
+      <modelElement href="CS156%20Project.uml#_fJygOfE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hgLv4PE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hgLv3_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_hgLIxfE6Ee2C-a5UzEGj-g" source="_hgMW4PE6Ee2C-a5UzEGj-g">
+    <modelElement href="CS156%20Project.uml#_fKLhw_E6Ee2C-a5UzEGj-g"/>
+    <stereotypes xmi:id="_hgLv3PE6Ee2C-a5UzEGj-g" name="Reference">
+      <modelElement href="CS156%20Project.uml#_fKLhxfE6Ee2C-a5UzEGj-g"/>
+    </stereotypes>
+    <nameVisual xmi:id="_hgLv2fE6Ee2C-a5UzEGj-g" text=""/>
+    <sourceRole xmi:id="_hgLv2vE6Ee2C-a5UzEGj-g" aggregationKind="NONE" name="">
+      <modelElement href="CS156%20Project.uml#_fKLhxPE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hgLv4vE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hgLv4fE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_hgLv2_E6Ee2C-a5UzEGj-g" aggregationKind="NONE" name="endDate" navigable="true">
+      <modelElement href="CS156%20Project.uml#_fJygO_E6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hgLv5PE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hgLv4_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_hhL1YPE6Ee2C-a5UzEGj-g" targetItem="_hhL1YfE6Ee2C-a5UzEGj-g" sourceItem="_hhIyEPE6Ee2C-a5UzEGj-g"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_hhxrQPE6Ee2C-a5UzEGj-g" sourceAnchor="360.0,72.0" targetAnchor="115.0,168.0" target="_hcvaQPE6Ee2C-a5UzEGj-g" source="_hhy5YPE6Ee2C-a5UzEGj-g">
+    <modelElement href="CS156%20Project.uml#_fKLhyfE6Ee2C-a5UzEGj-g"/>
+    <bendpoints xmi:id="_E28pFvE7Ee2C-a5UzEGj-g" sourceX="107" sourceY="1" targetX="1" targetY="83"/>
+    <stereotypes xmi:id="_hhySU_E6Ee2C-a5UzEGj-g" name="Reference">
+      <modelElement href="CS156%20Project.uml#_fKLhy_E6Ee2C-a5UzEGj-g"/>
+    </stereotypes>
+    <nameVisual xmi:id="_hhySUPE6Ee2C-a5UzEGj-g" text="">
+      <visualProperties xmi:id="_hyHNWPE6Ee2C-a5UzEGj-g" position="2.0,-50.0"/>
+    </nameVisual>
+    <sourceRole xmi:id="_hhySUfE6Ee2C-a5UzEGj-g" aggregationKind="NONE" name="">
+      <modelElement href="CS156%20Project.uml#_fKLhyvE6Ee2C-a5UzEGj-g"/>
+      <visualProperties xmi:id="_hyHNV_E6Ee2C-a5UzEGj-g" position="12.0,-43.0"/>
+      <visibility xmi:id="_hhySVfE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hhySVPE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_hhySUvE6Ee2C-a5UzEGj-g" aggregationKind="NONE" name="address" navigable="true">
+      <modelElement href="CS156%20Project.uml#_fJzuVPE6Ee2C-a5UzEGj-g"/>
+      <visualProperties xmi:id="_hyHNWfE6Ee2C-a5UzEGj-g" position="-57.0,2.0"/>
+      <visibility xmi:id="_hhySV_E6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hhySVvE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_hiYvQPE6Ee2C-a5UzEGj-g" sourceAnchor="99.0,0.0" targetAnchor="126.0,149.0" superClass="_hhsLsPE6Ee2C-a5UzEGj-g" subClass="_hiZ9YPE6Ee2C-a5UzEGj-g">
+    <modelElement href="CS156%20Project.uml#_fJoIIPE6Ee2C-a5UzEGj-g"/>
+    <bendpoints xmi:id="_E28pEPE7Ee2C-a5UzEGj-g" sourceY="-30" targetX="-145" targetY="17"/>
+    <bendpoints xmi:id="_E28pEfE7Ee2C-a5UzEGj-g" sourceX="146" sourceY="-47" targetX="1"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_hiZWUfE6Ee2C-a5UzEGj-g" targetItem="_hiZ9YPE6Ee2C-a5UzEGj-g" sourceItem="_hiZWUPE6Ee2C-a5UzEGj-g"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:GeneralizationVisual" xmi:id="_hjC2kPE6Ee2C-a5UzEGj-g" sourceAnchor="67.0,0.0" targetAnchor="126.0,149.0" superClass="_hhsLsPE6Ee2C-a5UzEGj-g" subClass="_hjEEsvE6Ee2C-a5UzEGj-g">
+    <modelElement href="CS156%20Project.uml#_fJovMPE6Ee2C-a5UzEGj-g"/>
+    <bendpoints xmi:id="_E28pEvE7Ee2C-a5UzEGj-g" sourceY="-43" targetX="90" targetY="17"/>
+    <bendpoints xmi:id="_E28pE_E7Ee2C-a5UzEGj-g" sourceX="-89" sourceY="-60" targetX="1"/>
+  </edges>
+  <edges xsi:type="com.yattasolutions.diagrams:ConnectionVisual" xmi:id="_hjEEsfE6Ee2C-a5UzEGj-g" targetItem="_hjEEsvE6Ee2C-a5UzEGj-g" sourceItem="_hjEEsPE6Ee2C-a5UzEGj-g"/>
+  <edges xsi:type="com.yattasolutions.uml.diagrams.classifier:AssociationVisual" xmi:id="_hjHIAPE6Ee2C-a5UzEGj-g" sourceAnchor="166.0,148.0" targetAnchor="117.0,0.0" target="_hcvaQPE6Ee2C-a5UzEGj-g" source="_hjzrkPE6Ee2C-a5UzEGj-g">
+    <modelElement href="CS156%20Project.uml#_fKLhzPE6Ee2C-a5UzEGj-g"/>
+    <stereotypes xmi:id="_hjzEg_E6Ee2C-a5UzEGj-g" name="Reference">
+      <modelElement href="CS156%20Project.uml#_fKLhzvE6Ee2C-a5UzEGj-g"/>
+    </stereotypes>
+    <nameVisual xmi:id="_hjzEgPE6Ee2C-a5UzEGj-g" text="">
+      <visualProperties xmi:id="_hyHNW_E6Ee2C-a5UzEGj-g" position="2.0,-13.909090909090907"/>
+    </nameVisual>
+    <sourceRole xmi:id="_hjzEgfE6Ee2C-a5UzEGj-g" aggregationKind="NONE" name="">
+      <modelElement href="CS156%20Project.uml#_fKLhzfE6Ee2C-a5UzEGj-g"/>
+      <visualProperties xmi:id="_hyHNWvE6Ee2C-a5UzEGj-g" position="-16.0,29.75"/>
+      <visibility xmi:id="_hjzEhfE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hjzEhPE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+    </sourceRole>
+    <targetRole xmi:id="_hjzEgvE6Ee2C-a5UzEGj-g" aggregationKind="NONE" name="address" navigable="true">
+      <modelElement href="CS156%20Project.uml#_fJ08ePE6Ee2C-a5UzEGj-g"/>
+      <visualProperties xmi:id="_hyHNXPE6Ee2C-a5UzEGj-g" position="2.0,-70.75"/>
+      <visibility xmi:id="_hjzEh_E6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hjzEhvE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+    </targetRole>
+  </edges>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_hcWYsPE6Ee2C-a5UzEGj-g" sourceConnectionVisual="_hcuMIPE6Ee2C-a5UzEGj-g" text="Basic class to store address of persons and stores&#xA;&#xA;@author harrisonjohs" item="_hcvaQPE6Ee2C-a5UzEGj-g">
+    <modelElement href="CS156%20Project.uml#_fKJFj_E6Ee2C-a5UzEGj-g"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_hd_-gPE6Ee2C-a5UzEGj-g" sourceConnectionVisual="_heAlkPE6Ee2C-a5UzEGj-g" text="Subclass of Items which stores equipment data&#xA;&#xA;@author harrisonjohs&#xA; *" item="_heBMovE6Ee2C-a5UzEGj-g">
+    <modelElement href="CS156%20Project.uml#_fKJFkPE6Ee2C-a5UzEGj-g"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_heBMoPE6Ee2C-a5UzEGj-g" sourceConnectionVisual="_heBMofE6Ee2C-a5UzEGj-g" text="Superclass which contains code for equipment, products, and services&#xA;&#xA;@author harrisonjohs&#xA; *" item="_hhsLsPE6Ee2C-a5UzEGj-g">
+    <modelElement href="CS156%20Project.uml#_fKJskfE6Ee2C-a5UzEGj-g"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_hfArIPE6Ee2C-a5UzEGj-g" sourceConnectionVisual="_hfCgUPE6Ee2C-a5UzEGj-g" text="This is a collection of utility methods that define a general API for&#xA;interacting with the database supporting this application.&#xA; *" item="_hfDucPE6Ee2C-a5UzEGj-g">
+    <modelElement href="CS156%20Project.uml#_fKJFkfE6Ee2C-a5UzEGj-g"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_hgKhsPE6Ee2C-a5UzEGj-g" sourceConnectionVisual="_hgKhsfE6Ee2C-a5UzEGj-g" text="Class which has carries conditional values &#xA;depending on what the type is&#xA;&#xA;@author harrisonjohs&#xA; *" item="_hgMW4PE6Ee2C-a5UzEGj-g">
+    <modelElement href="CS156%20Project.uml#_fKJFkvE6Ee2C-a5UzEGj-g"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_hhIyEPE6Ee2C-a5UzEGj-g" sourceConnectionVisual="_hhL1YPE6Ee2C-a5UzEGj-g" text="Runnable which creates instances of necessary data, serializes&#xA;that data into Json files, and generates reports&#xA;&#xA;@author harrisonjohs&#xA;data: 2023-4-14" item="_hhL1YfE6Ee2C-a5UzEGj-g">
+    <modelElement href="CS156%20Project.uml#_fKJskPE6Ee2C-a5UzEGj-g"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_hiZWUPE6Ee2C-a5UzEGj-g" sourceConnectionVisual="_hiZWUfE6Ee2C-a5UzEGj-g" text="Subclass of Items which stores Product data&#xA;&#xA;@author harrisonjohs&#xA; *" item="_hiZ9YPE6Ee2C-a5UzEGj-g">
+    <modelElement href="CS156%20Project.uml#_fKJskvE6Ee2C-a5UzEGj-g"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.diagrams:CommentVisual" xmi:id="_hjEEsPE6Ee2C-a5UzEGj-g" sourceConnectionVisual="_hjEEsfE6Ee2C-a5UzEGj-g" text="Subclass of Items which stores services data&#xA;&#xA;@author harrisonjohs&#xA; *" item="_hjEEsvE6Ee2C-a5UzEGj-g">
+    <modelElement href="CS156%20Project.uml#_fKJsk_E6Ee2C-a5UzEGj-g"/>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_hgMW4PE6Ee2C-a5UzEGj-g" comments="_hgKhsPE6Ee2C-a5UzEGj-g" targetConnectionVisual="_hgKhsfE6Ee2C-a5UzEGj-g" name="InvoiceItems" associationsIn="_heWj0PE6Ee2C-a5UzEGj-g" associationsOut="_hfqLYPE6Ee2C-a5UzEGj-g _hgLIxPE6Ee2C-a5UzEGj-g _hgLIxfE6Ee2C-a5UzEGj-g">
+    <modelElement href="CS156%20Project.uml#_fIv-YPE6Ee2C-a5UzEGj-g"/>
+    <visualProperties xmi:id="_hgMW4fE6Ee2C-a5UzEGj-g" position="-6.0,-37.0" size="276.0,339.0"/>
+    <visibility xmi:id="_hgMW4vE6Ee2C-a5UzEGj-g" label="+"/>
+    <attributes xmi:id="_hgMW4_E6Ee2C-a5UzEGj-g" name="invoiceCode">
+      <modelElement href="CS156%20Project.uml#_fJx5MfE6Ee2C-a5UzEGj-g"/>
+      <stereotypes xmi:id="_hgMW5PE6Ee2C-a5UzEGj-g" name="LegacyStyledElement">
+        <modelElement href="CS156%20Project.uml#_fJygMPE6Ee2C-a5UzEGj-g"/>
+      </stereotypes>
+      <visibility xmi:id="_hgMW5fE6Ee2C-a5UzEGj-g" label="-"/>
+      <cardinality xmi:id="_hgMW5vE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hgMW5_E6Ee2C-a5UzEGj-g" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hgMW6PE6Ee2C-a5UzEGj-g" name="itemCode">
+      <modelElement href="CS156%20Project.uml#_fJygMfE6Ee2C-a5UzEGj-g"/>
+      <stereotypes xmi:id="_hgMW6fE6Ee2C-a5UzEGj-g" name="LegacyStyledElement">
+        <modelElement href="CS156%20Project.uml#_fJygMvE6Ee2C-a5UzEGj-g"/>
+      </stereotypes>
+      <visibility xmi:id="_hgMW6vE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hgMW6_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hgMW7PE6Ee2C-a5UzEGj-g" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hgMW7fE6Ee2C-a5UzEGj-g" name="item">
+      <modelElement href="CS156%20Project.uml#_fJygNfE6Ee2C-a5UzEGj-g"/>
+      <stereotypes xmi:id="_hgMW7vE6Ee2C-a5UzEGj-g" name="LegacyStyledElement">
+        <modelElement href="CS156%20Project.uml#_fJygNvE6Ee2C-a5UzEGj-g"/>
+      </stereotypes>
+      <visibility xmi:id="_hgMW7_E6Ee2C-a5UzEGj-g" label="-"/>
+      <cardinality xmi:id="_hgMW8PE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hgMW8fE6Ee2C-a5UzEGj-g" name="Items">
+        <modelElement href="CS156%20Project.uml#_fIzBtvE6Ee2C-a5UzEGj-g"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hgMW8vE6Ee2C-a5UzEGj-g" defaultValue="null" name="monthFee">
+      <modelElement href="CS156%20Project.uml#_fJygN_E6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hgMW8_E6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hgMW9PE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hgMW9fE6Ee2C-a5UzEGj-g" name="Double">
+        <modelElement href="CS156%20Project.uml#_fJryg_E6Ee2C-a5UzEGj-g"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hgMW9vE6Ee2C-a5UzEGj-g" defaultValue="null" name="startDate">
+      <modelElement href="CS156%20Project.uml#_fJygOfE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hgMW9_E6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hgMW-PE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hgMW-fE6Ee2C-a5UzEGj-g" name="LocalDate">
+        <modelElement href="CS156%20Project.uml#_fJhacfE6Ee2C-a5UzEGj-g"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hgMW-vE6Ee2C-a5UzEGj-g" defaultValue="null" name="endDate">
+      <modelElement href="CS156%20Project.uml#_fJygO_E6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hgMW-_E6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hgMW_PE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hgMW_fE6Ee2C-a5UzEGj-g" name="LocalDate">
+        <modelElement href="CS156%20Project.uml#_fJhacfE6Ee2C-a5UzEGj-g"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hgMW_vE6Ee2C-a5UzEGj-g" defaultValue="null" name="purchasePrice">
+      <modelElement href="CS156%20Project.uml#_fJygPfE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hgMW__E6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hgMXAPE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hgMXAfE6Ee2C-a5UzEGj-g" name="Double">
+        <modelElement href="CS156%20Project.uml#_fJryg_E6Ee2C-a5UzEGj-g"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hgMXAvE6Ee2C-a5UzEGj-g" defaultValue="null" name="hours">
+      <modelElement href="CS156%20Project.uml#_fJygP_E6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hgMXA_E6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hgMXBPE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hgMXBfE6Ee2C-a5UzEGj-g" name="Double">
+        <modelElement href="CS156%20Project.uml#_fJryg_E6Ee2C-a5UzEGj-g"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hgMXBvE6Ee2C-a5UzEGj-g" defaultValue="null" name="unitAmount">
+      <modelElement href="CS156%20Project.uml#_fJygQfE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hgMXB_E6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hgMXCPE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hgMXCfE6Ee2C-a5UzEGj-g" name="Double">
+        <modelElement href="CS156%20Project.uml#_fJryg_E6Ee2C-a5UzEGj-g"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hgMXCvE6Ee2C-a5UzEGj-g" name="type">
+      <modelElement href="CS156%20Project.uml#_fJygQ_E6Ee2C-a5UzEGj-g"/>
+      <stereotypes xmi:id="_hgMXC_E6Ee2C-a5UzEGj-g" name="LegacyStyledElement">
+        <modelElement href="CS156%20Project.uml#_fJygRPE6Ee2C-a5UzEGj-g"/>
+      </stereotypes>
+      <visibility xmi:id="_hgMXDPE6Ee2C-a5UzEGj-g" label="-"/>
+      <cardinality xmi:id="_hgMXDfE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hgMXDvE6Ee2C-a5UzEGj-g" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_hgMXD_E6Ee2C-a5UzEGj-g" name="getInvoiceCode">
+      <modelElement href="CS156%20Project.uml#_fIv-YfE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hgMXEPE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hgMXEfE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hgMXEvE6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fIv-YvE6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_hgMXE_E6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_hgMXFPE6Ee2C-a5UzEGj-g" name="getItem">
+      <modelElement href="CS156%20Project.uml#_fIv-Y_E6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hgMXFfE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hgMXFvE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hgMXF_E6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fJlE2vE6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_hgMXGPE6Ee2C-a5UzEGj-g" name="Items">
+          <modelElement href="CS156%20Project.uml#_fIzBtvE6Ee2C-a5UzEGj-g"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_hgMXGfE6Ee2C-a5UzEGj-g" name="getType">
+      <modelElement href="CS156%20Project.uml#_fIwlcPE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hgMXGvE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hgMXG_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hgMXHPE6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fIwlcfE6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_hgMXHfE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_hgMXHvE6Ee2C-a5UzEGj-g" name="getTotal">
+      <modelElement href="CS156%20Project.uml#_fIwlcvE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hgMXH_E6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hgMXIPE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hgMXIfE6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fIwlc_E6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_hgMXIvE6Ee2C-a5UzEGj-g" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_hgMXI_E6Ee2C-a5UzEGj-g" name="getTax">
+      <modelElement href="CS156%20Project.uml#_fIwldPE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hgMXJPE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hgMXJfE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hgMXJvE6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fIwldfE6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_hgMXJ_E6Ee2C-a5UzEGj-g" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_hgMXKPE6Ee2C-a5UzEGj-g" name="InvoiceItems">
+      <modelElement href="CS156%20Project.uml#_fJlE0vE6Ee2C-a5UzEGj-g"/>
+      <keywords xmi:id="_hgMXKfE6Ee2C-a5UzEGj-g" keyword="create"/>
+      <visibility xmi:id="_hgMXKvE6Ee2C-a5UzEGj-g" label="#"/>
+      <cardinality xmi:id="_hgMXK_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hgMXLPE6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fJlE2fE6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_hgMXLfE6Ee2C-a5UzEGj-g" name="InvoiceItems">
+          <modelElement href="CS156%20Project.uml#_fIv-YPE6Ee2C-a5UzEGj-g"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_hgMXLvE6Ee2C-a5UzEGj-g" name="invoiceCode">
+        <modelElement href="CS156%20Project.uml#_fJlE0_E6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hgMXL_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hgMXMPE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hgMXMfE6Ee2C-a5UzEGj-g" name="itemCode">
+        <modelElement href="CS156%20Project.uml#_fJlE1PE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hgMXMvE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hgMXM_E6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hgMXNPE6Ee2C-a5UzEGj-g" name="item">
+        <modelElement href="CS156%20Project.uml#_fJlE1fE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hgMXNfE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hgMXNvE6Ee2C-a5UzEGj-g" name="Items">
+          <modelElement href="CS156%20Project.uml#_fIzBtvE6Ee2C-a5UzEGj-g"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hgMXN_E6Ee2C-a5UzEGj-g" name="type">
+        <modelElement href="CS156%20Project.uml#_fJlE1vE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hgMXOPE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hgMXOfE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_hiZ9YPE6Ee2C-a5UzEGj-g" comments="_hiZWUPE6Ee2C-a5UzEGj-g" targetConnectionVisual="_hiZWUfE6Ee2C-a5UzEGj-g" name="Products" generalizations="_hiYvQPE6Ee2C-a5UzEGj-g">
+    <modelElement href="CS156%20Project.uml#_fI024PE6Ee2C-a5UzEGj-g"/>
+    <visualProperties xmi:id="_hiZ9YfE6Ee2C-a5UzEGj-g" position="386.0,253.0" size="206.0,149.0"/>
+    <visibility xmi:id="_hiZ9YvE6Ee2C-a5UzEGj-g" label="+"/>
+    <attributes xmi:id="_hiZ9Y_E6Ee2C-a5UzEGj-g" name="name">
+      <modelElement href="CS156%20Project.uml#_fJzuXvE6Ee2C-a5UzEGj-g"/>
+      <stereotypes xmi:id="_hiZ9ZPE6Ee2C-a5UzEGj-g" name="LegacyStyledElement">
+        <modelElement href="CS156%20Project.uml#_fJzuX_E6Ee2C-a5UzEGj-g"/>
+      </stereotypes>
+      <visibility xmi:id="_hiZ9ZfE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hiZ9ZvE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hiZ9Z_E6Ee2C-a5UzEGj-g" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hiZ9aPE6Ee2C-a5UzEGj-g" name="unit">
+      <modelElement href="CS156%20Project.uml#_fJ0VYPE6Ee2C-a5UzEGj-g"/>
+      <stereotypes xmi:id="_hiZ9afE6Ee2C-a5UzEGj-g" name="LegacyStyledElement">
+        <modelElement href="CS156%20Project.uml#_fJ0VYfE6Ee2C-a5UzEGj-g"/>
+      </stereotypes>
+      <visibility xmi:id="_hiZ9avE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hiZ9a_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hiZ9bPE6Ee2C-a5UzEGj-g" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hiZ9bfE6Ee2C-a5UzEGj-g" name="unitPrice">
+      <modelElement href="CS156%20Project.uml#_fJ0VZPE6Ee2C-a5UzEGj-g"/>
+      <stereotypes xmi:id="_hiZ9bvE6Ee2C-a5UzEGj-g" name="LegacyStyledElement">
+        <modelElement href="CS156%20Project.uml#_fJ0VZfE6Ee2C-a5UzEGj-g"/>
+      </stereotypes>
+      <visibility xmi:id="_hiZ9b_E6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hiZ9cPE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hiZ9cfE6Ee2C-a5UzEGj-g" name="double">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_hiZ9cvE6Ee2C-a5UzEGj-g" name="Products">
+      <modelElement href="CS156%20Project.uml#_fI024fE6Ee2C-a5UzEGj-g"/>
+      <keywords xmi:id="_hiZ9c_E6Ee2C-a5UzEGj-g" keyword="create"/>
+      <visibility xmi:id="_hiZ9dPE6Ee2C-a5UzEGj-g" label="#"/>
+      <cardinality xmi:id="_hiZ9dfE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hiZ9dvE6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fI026PE6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_hiZ9d_E6Ee2C-a5UzEGj-g" name="Products">
+          <modelElement href="CS156%20Project.uml#_fI024PE6Ee2C-a5UzEGj-g"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_hiZ9ePE6Ee2C-a5UzEGj-g" name="code">
+        <modelElement href="CS156%20Project.uml#_fI024vE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hiZ9efE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hiZ9evE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hiZ9e_E6Ee2C-a5UzEGj-g" name="name">
+        <modelElement href="CS156%20Project.uml#_fI024_E6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hiZ9fPE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hiZ9ffE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hiZ9fvE6Ee2C-a5UzEGj-g" name="unit">
+        <modelElement href="CS156%20Project.uml#_fI025PE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hiZ9f_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hiZ9gPE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hiZ9gfE6Ee2C-a5UzEGj-g" name="unitPrice">
+        <modelElement href="CS156%20Project.uml#_fI025fE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hiZ9gvE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hiZ9g_E6Ee2C-a5UzEGj-g" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_hiZ9hPE6Ee2C-a5UzEGj-g" name="getHourlyRate">
+      <modelElement href="CS156%20Project.uml#_fI026fE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hiZ9hfE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hiZ9hvE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hiZ9h_E6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fI026vE6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_hiZ9iPE6Ee2C-a5UzEGj-g" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_hjEEsvE6Ee2C-a5UzEGj-g" comments="_hjEEsPE6Ee2C-a5UzEGj-g" targetConnectionVisual="_hjEEsfE6Ee2C-a5UzEGj-g" name="Services" generalizations="_hjC2kPE6Ee2C-a5UzEGj-g">
+    <modelElement href="CS156%20Project.uml#_fI2FAPE6Ee2C-a5UzEGj-g"/>
+    <visualProperties xmi:id="_hjEEs_E6Ee2C-a5UzEGj-g" position="653.0,266.0" size="138.0,130.0"/>
+    <visibility xmi:id="_hjEEtPE6Ee2C-a5UzEGj-g" label="+"/>
+    <attributes xmi:id="_hjEEtfE6Ee2C-a5UzEGj-g" name="name">
+      <modelElement href="CS156%20Project.uml#_fJ0VaPE6Ee2C-a5UzEGj-g"/>
+      <stereotypes xmi:id="_hjEEtvE6Ee2C-a5UzEGj-g" name="LegacyStyledElement">
+        <modelElement href="CS156%20Project.uml#_fJ0VafE6Ee2C-a5UzEGj-g"/>
+      </stereotypes>
+      <visibility xmi:id="_hjEEt_E6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hjEEuPE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hjEEufE6Ee2C-a5UzEGj-g" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hjEEuvE6Ee2C-a5UzEGj-g" name="hourlyRate">
+      <modelElement href="CS156%20Project.uml#_fJ0VbPE6Ee2C-a5UzEGj-g"/>
+      <stereotypes xmi:id="_hjEEu_E6Ee2C-a5UzEGj-g" name="LegacyStyledElement">
+        <modelElement href="CS156%20Project.uml#_fJ0VbfE6Ee2C-a5UzEGj-g"/>
+      </stereotypes>
+      <visibility xmi:id="_hjEEvPE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hjEEvfE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hjEEvvE6Ee2C-a5UzEGj-g" name="double">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_hjEEv_E6Ee2C-a5UzEGj-g" name="Services">
+      <modelElement href="CS156%20Project.uml#_fI2FAfE6Ee2C-a5UzEGj-g"/>
+      <keywords xmi:id="_hjEEwPE6Ee2C-a5UzEGj-g" keyword="create"/>
+      <visibility xmi:id="_hjEEwfE6Ee2C-a5UzEGj-g" label="#"/>
+      <cardinality xmi:id="_hjEEwvE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hjEEw_E6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fI2FB_E6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_hjEExPE6Ee2C-a5UzEGj-g" name="Services">
+          <modelElement href="CS156%20Project.uml#_fI2FAPE6Ee2C-a5UzEGj-g"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_hjEExfE6Ee2C-a5UzEGj-g" name="code">
+        <modelElement href="CS156%20Project.uml#_fI2FAvE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hjEExvE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hjEEx_E6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hjEEyPE6Ee2C-a5UzEGj-g" name="name">
+        <modelElement href="CS156%20Project.uml#_fI2FA_E6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hjEEyfE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hjEEyvE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hjEEy_E6Ee2C-a5UzEGj-g" name="hourlyRate">
+        <modelElement href="CS156%20Project.uml#_fI2FBPE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hjEEzPE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hjEEzfE6Ee2C-a5UzEGj-g" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_hjEEzvE6Ee2C-a5UzEGj-g" name="getUnitPrice">
+      <modelElement href="CS156%20Project.uml#_fI2FCPE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hjEEz_E6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hjErwPE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hjErwfE6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fI2FCfE6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_hjErwvE6Ee2C-a5UzEGj-g" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_hhsLsPE6Ee2C-a5UzEGj-g" comments="_heBMoPE6Ee2C-a5UzEGj-g" targetConnectionVisual="_heBMofE6Ee2C-a5UzEGj-g" name="Items" abstractClass="true" associationsIn="_hfqLYPE6Ee2C-a5UzEGj-g" subclassedBy="_heAlkfE6Ee2C-a5UzEGj-g _hiYvQPE6Ee2C-a5UzEGj-g _hjC2kPE6Ee2C-a5UzEGj-g">
+    <modelElement href="CS156%20Project.uml#_fIzBtvE6Ee2C-a5UzEGj-g"/>
+    <visualProperties xmi:id="_hhsLsfE6Ee2C-a5UzEGj-g" position="504.0,56.0" size="263.0,149.0"/>
+    <visibility xmi:id="_hhsLsvE6Ee2C-a5UzEGj-g" label="+"/>
+    <attributes xmi:id="_hhsLs_E6Ee2C-a5UzEGj-g" name="code">
+      <modelElement href="CS156%20Project.uml#_fJzHSvE6Ee2C-a5UzEGj-g"/>
+      <stereotypes xmi:id="_hhsLtPE6Ee2C-a5UzEGj-g" name="LegacyStyledElement">
+        <modelElement href="CS156%20Project.uml#_fJzHS_E6Ee2C-a5UzEGj-g"/>
+      </stereotypes>
+      <visibility xmi:id="_hhsLtfE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hhsLtvE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hhsLt_E6Ee2C-a5UzEGj-g" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_hhsLuPE6Ee2C-a5UzEGj-g" name="Items">
+      <modelElement href="CS156%20Project.uml#_fIzowPE6Ee2C-a5UzEGj-g"/>
+      <keywords xmi:id="_hhsLufE6Ee2C-a5UzEGj-g" keyword="create"/>
+      <visibility xmi:id="_hhsLuvE6Ee2C-a5UzEGj-g" label="#"/>
+      <cardinality xmi:id="_hhsLu_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hhsLvPE6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fIzoxPE6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_hhsLvfE6Ee2C-a5UzEGj-g" name="Items">
+          <modelElement href="CS156%20Project.uml#_fIzBtvE6Ee2C-a5UzEGj-g"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_hhsLvvE6Ee2C-a5UzEGj-g" name="code">
+        <modelElement href="CS156%20Project.uml#_fIzowfE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hhsLv_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hhsLwPE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_hhsLwfE6Ee2C-a5UzEGj-g" abstractOperation="true" name="getHourlyRate">
+      <modelElement href="CS156%20Project.uml#_fIzoxfE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hhsLwvE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hhsLw_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hhsLxPE6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fIzoxvE6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_hhsLxfE6Ee2C-a5UzEGj-g" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_hhsLxvE6Ee2C-a5UzEGj-g" abstractOperation="true" name="getUnitPrice">
+      <modelElement href="CS156%20Project.uml#_fIzox_E6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hhsLx_E6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hhsLyPE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hhsLyfE6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fIzoyPE6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_hhsLyvE6Ee2C-a5UzEGj-g" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_hhsLy_E6Ee2C-a5UzEGj-g" abstractOperation="true" name="getName">
+      <modelElement href="CS156%20Project.uml#_fIzoyfE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hhsLzPE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hhsLzfE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hhsLzvE6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fIzoyvE6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_hhsLz_E6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_heBMovE6Ee2C-a5UzEGj-g" comments="_hd_-gPE6Ee2C-a5UzEGj-g" targetConnectionVisual="_heAlkPE6Ee2C-a5UzEGj-g" name="Equipment" generalizations="_heAlkfE6Ee2C-a5UzEGj-g">
+    <modelElement href="CS156%20Project.uml#_fIrs8_E6Ee2C-a5UzEGj-g"/>
+    <visualProperties xmi:id="_heBMo_E6Ee2C-a5UzEGj-g" position="843.0,242.0" size="132.0,149.0"/>
+    <visibility xmi:id="_heBMpPE6Ee2C-a5UzEGj-g" label="+"/>
+    <attributes xmi:id="_heBMpfE6Ee2C-a5UzEGj-g" name="name">
+      <modelElement href="CS156%20Project.uml#_fJxSHfE6Ee2C-a5UzEGj-g"/>
+      <stereotypes xmi:id="_heBMpvE6Ee2C-a5UzEGj-g" name="LegacyStyledElement">
+        <modelElement href="CS156%20Project.uml#_fJxSHvE6Ee2C-a5UzEGj-g"/>
+      </stereotypes>
+      <visibility xmi:id="_heBMp_E6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_heBMqPE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_heBMqfE6Ee2C-a5UzEGj-g" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_heBMqvE6Ee2C-a5UzEGj-g" name="model">
+      <modelElement href="CS156%20Project.uml#_fJxSIfE6Ee2C-a5UzEGj-g"/>
+      <stereotypes xmi:id="_heBMq_E6Ee2C-a5UzEGj-g" name="LegacyStyledElement">
+        <modelElement href="CS156%20Project.uml#_fJxSIvE6Ee2C-a5UzEGj-g"/>
+      </stereotypes>
+      <visibility xmi:id="_heBMrPE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_heBMrfE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_heBMrvE6Ee2C-a5UzEGj-g" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_heBMr_E6Ee2C-a5UzEGj-g" name="Equipment">
+      <modelElement href="CS156%20Project.uml#_fIsUAPE6Ee2C-a5UzEGj-g"/>
+      <keywords xmi:id="_heBMsPE6Ee2C-a5UzEGj-g" keyword="create"/>
+      <visibility xmi:id="_heBMsfE6Ee2C-a5UzEGj-g" label="#"/>
+      <cardinality xmi:id="_heBMsvE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_heBMs_E6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fIsUBvE6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_heBMtPE6Ee2C-a5UzEGj-g" name="Equipment">
+          <modelElement href="CS156%20Project.uml#_fIrs8_E6Ee2C-a5UzEGj-g"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_heBMtfE6Ee2C-a5UzEGj-g" name="code">
+        <modelElement href="CS156%20Project.uml#_fIsUAfE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_heBMtvE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_heBMt_E6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_heBMuPE6Ee2C-a5UzEGj-g" name="name">
+        <modelElement href="CS156%20Project.uml#_fIsUAvE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_heBMufE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_heBMuvE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_heBMu_E6Ee2C-a5UzEGj-g" name="model">
+        <modelElement href="CS156%20Project.uml#_fIsUA_E6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_heBMvPE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_heBMvfE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_heBMvvE6Ee2C-a5UzEGj-g" name="getHourlyRate">
+      <modelElement href="CS156%20Project.uml#_fIsUB_E6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_heBMv_E6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_heBMwPE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_heBMwfE6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fIsUCPE6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_heBMwvE6Ee2C-a5UzEGj-g" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_heBMw_E6Ee2C-a5UzEGj-g" name="getUnitPrice">
+      <modelElement href="CS156%20Project.uml#_fIsUCfE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_heBMxPE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_heBMxfE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_heBMxvE6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fIsUCvE6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_heBMx_E6Ee2C-a5UzEGj-g" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </outParameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_hgtUQPE6Ee2C-a5UzEGj-g" name="InvoiceList" associationsOut="_heTggPE6Ee2C-a5UzEGj-g">
+    <modelElement href="CS156%20Project.uml#_fIxMgPE6Ee2C-a5UzEGj-g"/>
+    <visualProperties xmi:id="_hgtUQfE6Ee2C-a5UzEGj-g" position="-153.0,438.0" size="260.0,292.0"/>
+    <stereotypes xmi:id="_hgtUQvE6Ee2C-a5UzEGj-g" name="Generics">
+      <modelElement href="CS156%20Project.uml#_fIxMgfE6Ee2C-a5UzEGj-g"/>
+    </stereotypes>
+    <stereotypes xmi:id="_hgtUQ_E6Ee2C-a5UzEGj-g" name="Patch">
+      <modelElement href="CS156%20Project.uml#_gIcg0PE6Ee2C-a5UzEGj-g"/>
+    </stereotypes>
+    <visibility xmi:id="_hgtURPE6Ee2C-a5UzEGj-g" label="+"/>
+    <attributes xmi:id="_hgtURfE6Ee2C-a5UzEGj-g" name="elements">
+      <modelElement href="CS156%20Project.uml#_fJygRfE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hgtURvE6Ee2C-a5UzEGj-g" label="-"/>
+      <cardinality xmi:id="_hgtUR_E6Ee2C-a5UzEGj-g" label="1..*" max="-1" min="1"/>
+      <type xmi:id="_hgtUSPE6Ee2C-a5UzEGj-g" name="Invoice">
+        <modelElement href="CS156%20Project.uml#_fIsUC_E6Ee2C-a5UzEGj-g"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hgtUSfE6Ee2C-a5UzEGj-g" name="size">
+      <modelElement href="CS156%20Project.uml#_fJygSfE6Ee2C-a5UzEGj-g"/>
+      <stereotypes xmi:id="_hgtUSvE6Ee2C-a5UzEGj-g" name="LegacyStyledElement">
+        <modelElement href="CS156%20Project.uml#_fJzHQPE6Ee2C-a5UzEGj-g"/>
+      </stereotypes>
+      <visibility xmi:id="_hgtUS_E6Ee2C-a5UzEGj-g" label="-"/>
+      <cardinality xmi:id="_hgtUTPE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hgtUTfE6Ee2C-a5UzEGj-g" name="int">
+        <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hgtUTvE6Ee2C-a5UzEGj-g" defaultValue="&quot;&quot;" name="sortBy" staticAttribute="true">
+      <modelElement href="CS156%20Project.uml#_fJzHQfE6Ee2C-a5UzEGj-g"/>
+      <stereotypes xmi:id="_hgtUT_E6Ee2C-a5UzEGj-g" name="LegacyStyledElement">
+        <modelElement href="CS156%20Project.uml#_fJzHQvE6Ee2C-a5UzEGj-g"/>
+      </stereotypes>
+      <visibility xmi:id="_hgtUUPE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hgtUUfE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hgtUUvE6Ee2C-a5UzEGj-g" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_hgtUU_E6Ee2C-a5UzEGj-g" name="InvoiceList">
+      <modelElement href="CS156%20Project.uml#_fIxzkPE6Ee2C-a5UzEGj-g"/>
+      <keywords xmi:id="_hgtUVPE6Ee2C-a5UzEGj-g" keyword="create"/>
+      <visibility xmi:id="_hgtUVfE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hgtUVvE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hgtUV_E6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fIxzk_E6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_hgtUWPE6Ee2C-a5UzEGj-g" name="InvoiceList">
+          <modelElement href="CS156%20Project.uml#_fIxMgPE6Ee2C-a5UzEGj-g"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_hgtUWfE6Ee2C-a5UzEGj-g" name="getSortBy">
+      <modelElement href="CS156%20Project.uml#_fIxzlPE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hgtUWvE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hgtUW_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hgtUXPE6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fIxzlfE6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_hgtUXfE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_hgtUXvE6Ee2C-a5UzEGj-g" name="setSortBy">
+      <modelElement href="CS156%20Project.uml#_fIxzlvE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hgtUX_E6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hgtUYPE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <parameters xmi:id="_hgtUYfE6Ee2C-a5UzEGj-g" name="sortBy">
+        <modelElement href="CS156%20Project.uml#_fIxzl_E6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hgtUYvE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hgtUY_E6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_hgtUZPE6Ee2C-a5UzEGj-g" name="get">
+      <modelElement href="CS156%20Project.uml#_fIxzmPE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hgtUZfE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hgtUZvE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hgtUZ_E6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fJmS8vE6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_hgtUaPE6Ee2C-a5UzEGj-g" name="Invoice">
+          <modelElement href="CS156%20Project.uml#_fIsUC_E6Ee2C-a5UzEGj-g"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_hgtUafE6Ee2C-a5UzEGj-g" name="index">
+        <modelElement href="CS156%20Project.uml#_fIxzmfE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hgtUavE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hgtUa_E6Ee2C-a5UzEGj-g" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_hgtUbPE6Ee2C-a5UzEGj-g" name="size">
+      <modelElement href="CS156%20Project.uml#_fIxzmvE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hgtUbfE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hgtUbvE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hgtUb_E6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fIxzm_E6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_hgtUcPE6Ee2C-a5UzEGj-g" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_hgtUcfE6Ee2C-a5UzEGj-g" name="iterator">
+      <modelElement href="CS156%20Project.uml#_fIxznPE6Ee2C-a5UzEGj-g"/>
+      <stereotypes xmi:id="_hgtUcvE6Ee2C-a5UzEGj-g" name="Generics">
+        <modelElement href="CS156%20Project.uml#_fIyaoPE6Ee2C-a5UzEGj-g"/>
+      </stereotypes>
+      <stereotypes xmi:id="_hgtUc_E6Ee2C-a5UzEGj-g" name="LegacyStyledElement">
+        <modelElement href="CS156%20Project.uml#_fIyaofE6Ee2C-a5UzEGj-g"/>
+      </stereotypes>
+      <stereotypes xmi:id="_hgtUdPE6Ee2C-a5UzEGj-g" name="Annotations">
+        <modelElement href="CS156%20Project.uml#_fIyaovE6Ee2C-a5UzEGj-g"/>
+      </stereotypes>
+      <visibility xmi:id="_hgtUdfE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hgtUdvE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hgtUd_E6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fJtAoPE6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_hgtUePE6Ee2C-a5UzEGj-g" name="Iterator">
+          <modelElement href="CS156%20Project.uml#_fJlr4PE6Ee2C-a5UzEGj-g"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_hgtUefE6Ee2C-a5UzEGj-g" name="sort">
+      <modelElement href="CS156%20Project.uml#_fIyapPE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hgtUevE6Ee2C-a5UzEGj-g" label="-"/>
+      <cardinality xmi:id="_hgtUe_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_hgtUfPE6Ee2C-a5UzEGj-g" name="resize">
+      <modelElement href="CS156%20Project.uml#_fIyapfE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hgtUffE6Ee2C-a5UzEGj-g" label="-"/>
+      <cardinality xmi:id="_hgtUfvE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_hgtUf_E6Ee2C-a5UzEGj-g" name="add">
+      <modelElement href="CS156%20Project.uml#_fJmS8PE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hgtUgPE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hgtUgfE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <parameters xmi:id="_hgtUgvE6Ee2C-a5UzEGj-g" name="element">
+        <modelElement href="CS156%20Project.uml#_fJmS8fE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hgtUg_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hgtUhPE6Ee2C-a5UzEGj-g" name="Invoice">
+          <modelElement href="CS156%20Project.uml#_fIsUC_E6Ee2C-a5UzEGj-g"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_hgtUhfE6Ee2C-a5UzEGj-g" name="compare" staticOperation="true">
+      <modelElement href="CS156%20Project.uml#_fJmS8_E6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hgtUhvE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hgtUh_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hgtUiPE6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fJmS9vE6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_hgtUifE6Ee2C-a5UzEGj-g" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_hgtUivE6Ee2C-a5UzEGj-g" name="i1">
+        <modelElement href="CS156%20Project.uml#_fJmS9PE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hgtUi_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hgtUjPE6Ee2C-a5UzEGj-g" name="Invoice">
+          <modelElement href="CS156%20Project.uml#_fIsUC_E6Ee2C-a5UzEGj-g"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hgtUjfE6Ee2C-a5UzEGj-g" name="i2">
+        <modelElement href="CS156%20Project.uml#_fJmS9fE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hgtUjvE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hgtUj_E6Ee2C-a5UzEGj-g" name="Invoice">
+          <modelElement href="CS156%20Project.uml#_fIsUC_E6Ee2C-a5UzEGj-g"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_hembcPE6Ee2C-a5UzEGj-g" name="Invoice" associationsIn="_heTggPE6Ee2C-a5UzEGj-g" associationsOut="_heUuoPE6Ee2C-a5UzEGj-g _heV8y_E6Ee2C-a5UzEGj-g _heWj0PE6Ee2C-a5UzEGj-g">
+    <modelElement href="CS156%20Project.uml#_fIsUC_E6Ee2C-a5UzEGj-g"/>
+    <visualProperties xmi:id="_hembcfE6Ee2C-a5UzEGj-g" position="220.0,429.0" size="328.0,338.0"/>
+    <visibility xmi:id="_hembcvE6Ee2C-a5UzEGj-g" label="+"/>
+    <attributes xmi:id="_hembc_E6Ee2C-a5UzEGj-g" name="invoiceCode">
+      <modelElement href="CS156%20Project.uml#_fJxSJfE6Ee2C-a5UzEGj-g"/>
+      <stereotypes xmi:id="_hembdPE6Ee2C-a5UzEGj-g" name="LegacyStyledElement">
+        <modelElement href="CS156%20Project.uml#_fJxSJvE6Ee2C-a5UzEGj-g"/>
+      </stereotypes>
+      <visibility xmi:id="_hembdfE6Ee2C-a5UzEGj-g" label="-"/>
+      <cardinality xmi:id="_hembdvE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hembd_E6Ee2C-a5UzEGj-g" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hembePE6Ee2C-a5UzEGj-g" name="storeCode">
+      <modelElement href="CS156%20Project.uml#_fJxSJ_E6Ee2C-a5UzEGj-g"/>
+      <stereotypes xmi:id="_hembefE6Ee2C-a5UzEGj-g" name="LegacyStyledElement">
+        <modelElement href="CS156%20Project.uml#_fJx5IPE6Ee2C-a5UzEGj-g"/>
+      </stereotypes>
+      <visibility xmi:id="_hembevE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hembe_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hembfPE6Ee2C-a5UzEGj-g" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hembffE6Ee2C-a5UzEGj-g" name="customerCode">
+      <modelElement href="CS156%20Project.uml#_fJx5I_E6Ee2C-a5UzEGj-g"/>
+      <stereotypes xmi:id="_hembfvE6Ee2C-a5UzEGj-g" name="LegacyStyledElement">
+        <modelElement href="CS156%20Project.uml#_fJx5JPE6Ee2C-a5UzEGj-g"/>
+      </stereotypes>
+      <visibility xmi:id="_hembf_E6Ee2C-a5UzEGj-g" label="-"/>
+      <cardinality xmi:id="_hembgPE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hembgfE6Ee2C-a5UzEGj-g" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hembgvE6Ee2C-a5UzEGj-g" name="salesPersonCode">
+      <modelElement href="CS156%20Project.uml#_fJx5JfE6Ee2C-a5UzEGj-g"/>
+      <stereotypes xmi:id="_hembg_E6Ee2C-a5UzEGj-g" name="LegacyStyledElement">
+        <modelElement href="CS156%20Project.uml#_fJx5JvE6Ee2C-a5UzEGj-g"/>
+      </stereotypes>
+      <visibility xmi:id="_hembhPE6Ee2C-a5UzEGj-g" label="-"/>
+      <cardinality xmi:id="_hembhfE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hembhvE6Ee2C-a5UzEGj-g" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hembh_E6Ee2C-a5UzEGj-g" name="invoiceDate">
+      <modelElement href="CS156%20Project.uml#_fJx5J_E6Ee2C-a5UzEGj-g"/>
+      <stereotypes xmi:id="_hembiPE6Ee2C-a5UzEGj-g" name="LegacyStyledElement">
+        <modelElement href="CS156%20Project.uml#_fJx5KPE6Ee2C-a5UzEGj-g"/>
+      </stereotypes>
+      <visibility xmi:id="_hembifE6Ee2C-a5UzEGj-g" label="-"/>
+      <cardinality xmi:id="_hembivE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hembi_E6Ee2C-a5UzEGj-g" name="LocalDate">
+        <modelElement href="CS156%20Project.uml#_fJhacfE6Ee2C-a5UzEGj-g"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hembjPE6Ee2C-a5UzEGj-g" defaultValue="null" name="persons">
+      <modelElement href="CS156%20Project.uml#_fJx5KfE6Ee2C-a5UzEGj-g"/>
+      <stereotypes xmi:id="_hembjfE6Ee2C-a5UzEGj-g" name="LegacyStyledElement">
+        <modelElement href="CS156%20Project.uml#_fJx5LPE6Ee2C-a5UzEGj-g"/>
+      </stereotypes>
+      <visibility xmi:id="_hembjvE6Ee2C-a5UzEGj-g" label="-"/>
+      <cardinality xmi:id="_hembj_E6Ee2C-a5UzEGj-g" label="1..*" max="-1" min="1"/>
+      <type xmi:id="_hembkPE6Ee2C-a5UzEGj-g" name="Persons">
+        <modelElement href="CS156%20Project.uml#_fIzozPE6Ee2C-a5UzEGj-g"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hembkfE6Ee2C-a5UzEGj-g" defaultValue="new ArrayList&lt;InvoiceItems>()" name="invoiceItems">
+      <modelElement href="CS156%20Project.uml#_fJx5LfE6Ee2C-a5UzEGj-g"/>
+      <stereotypes xmi:id="_hembkvE6Ee2C-a5UzEGj-g" name="LegacyStyledElement">
+        <modelElement href="CS156%20Project.uml#_fJx5MPE6Ee2C-a5UzEGj-g"/>
+      </stereotypes>
+      <visibility xmi:id="_hembk_E6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hemblPE6Ee2C-a5UzEGj-g" label="1..*" max="-1" min="1"/>
+      <type xmi:id="_hemblfE6Ee2C-a5UzEGj-g" name="InvoiceItems">
+        <modelElement href="CS156%20Project.uml#_fIv-YPE6Ee2C-a5UzEGj-g"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_hemblvE6Ee2C-a5UzEGj-g" name="getInvoiceCode">
+      <modelElement href="CS156%20Project.uml#_fIs7EPE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hembl_E6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hembmPE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hembmfE6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fIs7EfE6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_hembmvE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_hembm_E6Ee2C-a5UzEGj-g" name="getCustomerCode">
+      <modelElement href="CS156%20Project.uml#_fIs7EvE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hembnPE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hembnfE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hembnvE6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fIs7E_E6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_hembn_E6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_hemboPE6Ee2C-a5UzEGj-g" name="getSalesPersonCode">
+      <modelElement href="CS156%20Project.uml#_fIs7FPE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hembofE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hembovE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hembo_E6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fIs7FfE6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_hembpPE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_hembpfE6Ee2C-a5UzEGj-g" name="getInvoiceDate">
+      <modelElement href="CS156%20Project.uml#_fIs7FvE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hembpvE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hembp_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hembqPE6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fJrygfE6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_hembqfE6Ee2C-a5UzEGj-g" name="LocalDate">
+          <modelElement href="CS156%20Project.uml#_fJhacfE6Ee2C-a5UzEGj-g"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_hembqvE6Ee2C-a5UzEGj-g" name="getInvoiceItems">
+      <modelElement href="CS156%20Project.uml#_fIs7F_E6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hembq_E6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hembrPE6Ee2C-a5UzEGj-g" label="1..*" max="-1" min="1"/>
+      <outParameters xmi:id="_hembrfE6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fIs7GPE6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_hembrvE6Ee2C-a5UzEGj-g" name="InvoiceItems">
+          <modelElement href="CS156%20Project.uml#_fIv-YPE6Ee2C-a5UzEGj-g"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_hembr_E6Ee2C-a5UzEGj-g" name="getCustomerName">
+      <modelElement href="CS156%20Project.uml#_fIs7GvE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hembsPE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hembsfE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hembsvE6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fItiIfE6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_hembs_E6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_hembtPE6Ee2C-a5UzEGj-g" name="id">
+        <modelElement href="CS156%20Project.uml#_fItiIPE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hembtfE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hembtvE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_hembt_E6Ee2C-a5UzEGj-g" name="getManagerName">
+      <modelElement href="CS156%20Project.uml#_fItiIvE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hembuPE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hembufE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hembuvE6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fItiJPE6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_hembu_E6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_hembvPE6Ee2C-a5UzEGj-g" name="code">
+        <modelElement href="CS156%20Project.uml#_fItiI_E6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hembvfE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hembvvE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_hembv_E6Ee2C-a5UzEGj-g" name="getTotal">
+      <modelElement href="CS156%20Project.uml#_fItiJfE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hembwPE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hembwfE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hembwvE6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fItiJvE6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_hembw_E6Ee2C-a5UzEGj-g" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_hembxPE6Ee2C-a5UzEGj-g" name="Invoice">
+      <modelElement href="CS156%20Project.uml#_fJrLdPE6Ee2C-a5UzEGj-g"/>
+      <keywords xmi:id="_hembxfE6Ee2C-a5UzEGj-g" keyword="create"/>
+      <visibility xmi:id="_hembxvE6Ee2C-a5UzEGj-g" label="#"/>
+      <cardinality xmi:id="_hembx_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hembyPE6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fJrLfPE6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_hembyfE6Ee2C-a5UzEGj-g" name="Invoice">
+          <modelElement href="CS156%20Project.uml#_fIsUC_E6Ee2C-a5UzEGj-g"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_hembyvE6Ee2C-a5UzEGj-g" name="invoiceCode">
+        <modelElement href="CS156%20Project.uml#_fJrLdfE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hemby_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hembzPE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hembzfE6Ee2C-a5UzEGj-g" name="storeCode">
+        <modelElement href="CS156%20Project.uml#_fJrLdvE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hembzvE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hembz_E6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hemb0PE6Ee2C-a5UzEGj-g" name="customerCode">
+        <modelElement href="CS156%20Project.uml#_fJrLd_E6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hemb0fE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hemb0vE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hemb0_E6Ee2C-a5UzEGj-g" name="salesPersonCode">
+        <modelElement href="CS156%20Project.uml#_fJrLePE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hemb1PE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hemb1fE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hemb1vE6Ee2C-a5UzEGj-g" name="invoiceDate">
+        <modelElement href="CS156%20Project.uml#_fJrLefE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hemb1_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hemb2PE6Ee2C-a5UzEGj-g" name="LocalDate">
+          <modelElement href="CS156%20Project.uml#_fJhacfE6Ee2C-a5UzEGj-g"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_hemb2fE6Ee2C-a5UzEGj-g" name="setPersons">
+      <modelElement href="CS156%20Project.uml#_fJrLffE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hemb2vE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hemb2_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <parameters xmi:id="_hemb3PE6Ee2C-a5UzEGj-g" name="persons">
+        <modelElement href="CS156%20Project.uml#_fJrLfvE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hemb3fE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hemb3vE6Ee2C-a5UzEGj-g" name="List">
+          <modelElement href="CS156%20Project.uml#_fJiBgfE6Ee2C-a5UzEGj-g"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_hhy5YPE6Ee2C-a5UzEGj-g" name="Persons" associationsIn="_heUuoPE6Ee2C-a5UzEGj-g" associationsOut="_hhxrQPE6Ee2C-a5UzEGj-g">
+    <modelElement href="CS156%20Project.uml#_fIzozPE6Ee2C-a5UzEGj-g"/>
+    <visualProperties xmi:id="_hhy5YfE6Ee2C-a5UzEGj-g" position="660.0,506.0" size="359.0,148.0"/>
+    <visibility xmi:id="_hhy5YvE6Ee2C-a5UzEGj-g" label="+"/>
+    <attributes xmi:id="_hhy5Y_E6Ee2C-a5UzEGj-g" name="id">
+      <modelElement href="CS156%20Project.uml#_fJzHTvE6Ee2C-a5UzEGj-g"/>
+      <stereotypes xmi:id="_hhy5ZPE6Ee2C-a5UzEGj-g" name="LegacyStyledElement">
+        <modelElement href="CS156%20Project.uml#_fJzHT_E6Ee2C-a5UzEGj-g"/>
+      </stereotypes>
+      <visibility xmi:id="_hhy5ZfE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hhy5ZvE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hhy5Z_E6Ee2C-a5UzEGj-g" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hhy5aPE6Ee2C-a5UzEGj-g" name="lastName">
+      <modelElement href="CS156%20Project.uml#_fJzHUvE6Ee2C-a5UzEGj-g"/>
+      <stereotypes xmi:id="_hhy5afE6Ee2C-a5UzEGj-g" name="LegacyStyledElement">
+        <modelElement href="CS156%20Project.uml#_fJzHU_E6Ee2C-a5UzEGj-g"/>
+      </stereotypes>
+      <visibility xmi:id="_hhy5avE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hhy5a_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hhy5bPE6Ee2C-a5UzEGj-g" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hhy5bfE6Ee2C-a5UzEGj-g" name="firstName">
+      <modelElement href="CS156%20Project.uml#_fJzuUPE6Ee2C-a5UzEGj-g"/>
+      <stereotypes xmi:id="_hhy5bvE6Ee2C-a5UzEGj-g" name="LegacyStyledElement">
+        <modelElement href="CS156%20Project.uml#_fJzuUfE6Ee2C-a5UzEGj-g"/>
+      </stereotypes>
+      <visibility xmi:id="_hhy5b_E6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hhy5cPE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hhy5cfE6Ee2C-a5UzEGj-g" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hhy5cvE6Ee2C-a5UzEGj-g" name="address">
+      <modelElement href="CS156%20Project.uml#_fJzuVPE6Ee2C-a5UzEGj-g"/>
+      <stereotypes xmi:id="_hhy5c_E6Ee2C-a5UzEGj-g" name="LegacyStyledElement">
+        <modelElement href="CS156%20Project.uml#_fJzuVfE6Ee2C-a5UzEGj-g"/>
+      </stereotypes>
+      <visibility xmi:id="_hhy5dPE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hhy5dfE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hhy5dvE6Ee2C-a5UzEGj-g" name="Address">
+        <modelElement href="CS156%20Project.uml#_fIoCkPE6Ee2C-a5UzEGj-g"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hhy5d_E6Ee2C-a5UzEGj-g" name="emails">
+      <modelElement href="CS156%20Project.uml#_fJzuWPE6Ee2C-a5UzEGj-g"/>
+      <stereotypes xmi:id="_hhy5ePE6Ee2C-a5UzEGj-g" name="LegacyStyledElement">
+        <modelElement href="CS156%20Project.uml#_fJzuWfE6Ee2C-a5UzEGj-g"/>
+      </stereotypes>
+      <visibility xmi:id="_hhy5efE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hhy5evE6Ee2C-a5UzEGj-g" label="1..*" max="-1" min="1"/>
+      <type xmi:id="_hhy5e_E6Ee2C-a5UzEGj-g" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_hhy5fPE6Ee2C-a5UzEGj-g" name="Persons">
+      <modelElement href="CS156%20Project.uml#_fJtApfE6Ee2C-a5UzEGj-g"/>
+      <keywords xmi:id="_hhy5ffE6Ee2C-a5UzEGj-g" keyword="create"/>
+      <visibility xmi:id="_hhy5fvE6Ee2C-a5UzEGj-g" label="#"/>
+      <cardinality xmi:id="_hhy5f_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hhy5gPE6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fJtntfE6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_hhy5gfE6Ee2C-a5UzEGj-g" name="Persons">
+          <modelElement href="CS156%20Project.uml#_fIzozPE6Ee2C-a5UzEGj-g"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_hhy5gvE6Ee2C-a5UzEGj-g" name="id">
+        <modelElement href="CS156%20Project.uml#_fJtApvE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hhy5g_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hhy5hPE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hhy5hfE6Ee2C-a5UzEGj-g" name="lastName">
+        <modelElement href="CS156%20Project.uml#_fJtAp_E6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hhy5hvE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hhy5h_E6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hhy5iPE6Ee2C-a5UzEGj-g" name="firstName">
+        <modelElement href="CS156%20Project.uml#_fJtAqPE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hhy5ifE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hhy5ivE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hhy5i_E6Ee2C-a5UzEGj-g" name="street">
+        <modelElement href="CS156%20Project.uml#_fJtAqfE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hhy5jPE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hhy5jfE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hhy5jvE6Ee2C-a5UzEGj-g" name="city">
+        <modelElement href="CS156%20Project.uml#_fJtAqvE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hhy5j_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hhy5kPE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hhy5kfE6Ee2C-a5UzEGj-g" name="state">
+        <modelElement href="CS156%20Project.uml#_fJtAq_E6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hhy5kvE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hhy5k_E6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hhy5lPE6Ee2C-a5UzEGj-g" name="zip">
+        <modelElement href="CS156%20Project.uml#_fJtnsPE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hhy5lfE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hhy5lvE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hhy5l_E6Ee2C-a5UzEGj-g" name="country">
+        <modelElement href="CS156%20Project.uml#_fJtnsfE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hhy5mPE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hhy5mfE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hhy5mvE6Ee2C-a5UzEGj-g" name="emails">
+        <modelElement href="CS156%20Project.uml#_fJtnsvE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hhy5m_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hhy5nPE6Ee2C-a5UzEGj-g" name="List">
+          <modelElement href="CS156%20Project.uml#_fJiBgfE6Ee2C-a5UzEGj-g"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_hcvaQPE6Ee2C-a5UzEGj-g" comments="_hcWYsPE6Ee2C-a5UzEGj-g" targetConnectionVisual="_hcuMIPE6Ee2C-a5UzEGj-g" name="Address" associationsIn="_hhxrQPE6Ee2C-a5UzEGj-g _hjHIAPE6Ee2C-a5UzEGj-g">
+    <modelElement href="CS156%20Project.uml#_fIoCkPE6Ee2C-a5UzEGj-g"/>
+    <visualProperties xmi:id="_hcvaQfE6Ee2C-a5UzEGj-g" position="1011.0,328.0" size="234.0,168.0"/>
+    <visibility xmi:id="_hcvaQvE6Ee2C-a5UzEGj-g" label="+"/>
+    <attributes xmi:id="_hcvaQ_E6Ee2C-a5UzEGj-g" name="street">
+      <modelElement href="CS156%20Project.uml#_fJwD8PE6Ee2C-a5UzEGj-g"/>
+      <stereotypes xmi:id="_hcvaRPE6Ee2C-a5UzEGj-g" name="LegacyStyledElement">
+        <modelElement href="CS156%20Project.uml#_fJwD8fE6Ee2C-a5UzEGj-g"/>
+      </stereotypes>
+      <visibility xmi:id="_hcvaRfE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hcvaRvE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hcvaR_E6Ee2C-a5UzEGj-g" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hcvaSPE6Ee2C-a5UzEGj-g" name="city">
+      <modelElement href="CS156%20Project.uml#_fJwrAPE6Ee2C-a5UzEGj-g"/>
+      <stereotypes xmi:id="_hcvaSfE6Ee2C-a5UzEGj-g" name="LegacyStyledElement">
+        <modelElement href="CS156%20Project.uml#_fJwrAfE6Ee2C-a5UzEGj-g"/>
+      </stereotypes>
+      <visibility xmi:id="_hcvaSvE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hcvaS_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hcvaTPE6Ee2C-a5UzEGj-g" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hcvaTfE6Ee2C-a5UzEGj-g" name="state">
+      <modelElement href="CS156%20Project.uml#_fJwrBPE6Ee2C-a5UzEGj-g"/>
+      <stereotypes xmi:id="_hcvaTvE6Ee2C-a5UzEGj-g" name="LegacyStyledElement">
+        <modelElement href="CS156%20Project.uml#_fJwrBfE6Ee2C-a5UzEGj-g"/>
+      </stereotypes>
+      <visibility xmi:id="_hcvaT_E6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hcvaUPE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hcvaUfE6Ee2C-a5UzEGj-g" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hcvaUvE6Ee2C-a5UzEGj-g" name="zip">
+      <modelElement href="CS156%20Project.uml#_fJwrCPE6Ee2C-a5UzEGj-g"/>
+      <stereotypes xmi:id="_hcvaU_E6Ee2C-a5UzEGj-g" name="LegacyStyledElement">
+        <modelElement href="CS156%20Project.uml#_fJwrCfE6Ee2C-a5UzEGj-g"/>
+      </stereotypes>
+      <visibility xmi:id="_hcvaVPE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hcvaVfE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hcvaVvE6Ee2C-a5UzEGj-g" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hcvaV_E6Ee2C-a5UzEGj-g" name="county">
+      <modelElement href="CS156%20Project.uml#_fJwrDPE6Ee2C-a5UzEGj-g"/>
+      <stereotypes xmi:id="_hcvaWPE6Ee2C-a5UzEGj-g" name="LegacyStyledElement">
+        <modelElement href="CS156%20Project.uml#_fJwrDfE6Ee2C-a5UzEGj-g"/>
+      </stereotypes>
+      <visibility xmi:id="_hcvaWfE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hcvaWvE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hcvaW_E6Ee2C-a5UzEGj-g" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_hcvaXPE6Ee2C-a5UzEGj-g" name="Address">
+      <modelElement href="CS156%20Project.uml#_fIpQsPE6Ee2C-a5UzEGj-g"/>
+      <keywords xmi:id="_hcvaXfE6Ee2C-a5UzEGj-g" keyword="create"/>
+      <visibility xmi:id="_hcvaXvE6Ee2C-a5UzEGj-g" label="#"/>
+      <cardinality xmi:id="_hcvaX_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hcvaYPE6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fIpQuPE6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_hcvaYfE6Ee2C-a5UzEGj-g" name="Address">
+          <modelElement href="CS156%20Project.uml#_fIoCkPE6Ee2C-a5UzEGj-g"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_hcvaYvE6Ee2C-a5UzEGj-g" name="street">
+        <modelElement href="CS156%20Project.uml#_fIpQsfE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hcvaY_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hcvaZPE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hcvaZfE6Ee2C-a5UzEGj-g" name="city">
+        <modelElement href="CS156%20Project.uml#_fIpQsvE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hcvaZvE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hcvaZ_E6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hcvaaPE6Ee2C-a5UzEGj-g" name="state">
+        <modelElement href="CS156%20Project.uml#_fIpQs_E6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hcvaafE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hcvaavE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hcvaa_E6Ee2C-a5UzEGj-g" name="zip">
+        <modelElement href="CS156%20Project.uml#_fIpQtPE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hcvabPE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hcvabfE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hcvabvE6Ee2C-a5UzEGj-g" name="country">
+        <modelElement href="CS156%20Project.uml#_fIpQtfE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hcvab_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hcvacPE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_hjzrkPE6Ee2C-a5UzEGj-g" name="Stores" associationsOut="_hjHIAPE6Ee2C-a5UzEGj-g">
+    <modelElement href="CS156%20Project.uml#_fI2sEPE6Ee2C-a5UzEGj-g"/>
+    <visualProperties xmi:id="_hjzrkfE6Ee2C-a5UzEGj-g" position="962.0,22.0" size="297.0,148.0"/>
+    <visibility xmi:id="_hjzrkvE6Ee2C-a5UzEGj-g" label="+"/>
+    <attributes xmi:id="_hjzrk_E6Ee2C-a5UzEGj-g" name="storeCode">
+      <modelElement href="CS156%20Project.uml#_fJ08cPE6Ee2C-a5UzEGj-g"/>
+      <stereotypes xmi:id="_hjzrlPE6Ee2C-a5UzEGj-g" name="LegacyStyledElement">
+        <modelElement href="CS156%20Project.uml#_fJ08cfE6Ee2C-a5UzEGj-g"/>
+      </stereotypes>
+      <visibility xmi:id="_hjzrlfE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hjzrlvE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hjzrl_E6Ee2C-a5UzEGj-g" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hjzrmPE6Ee2C-a5UzEGj-g" name="managerCode">
+      <modelElement href="CS156%20Project.uml#_fJ08dPE6Ee2C-a5UzEGj-g"/>
+      <stereotypes xmi:id="_hjzrmfE6Ee2C-a5UzEGj-g" name="LegacyStyledElement">
+        <modelElement href="CS156%20Project.uml#_fJ08dfE6Ee2C-a5UzEGj-g"/>
+      </stereotypes>
+      <visibility xmi:id="_hjzrmvE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hjzrm_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hjzrnPE6Ee2C-a5UzEGj-g" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hjzrnfE6Ee2C-a5UzEGj-g" name="address">
+      <modelElement href="CS156%20Project.uml#_fJ08ePE6Ee2C-a5UzEGj-g"/>
+      <stereotypes xmi:id="_hjzrnvE6Ee2C-a5UzEGj-g" name="LegacyStyledElement">
+        <modelElement href="CS156%20Project.uml#_fJ08efE6Ee2C-a5UzEGj-g"/>
+      </stereotypes>
+      <visibility xmi:id="_hjzrn_E6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hjzroPE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hjzrofE6Ee2C-a5UzEGj-g" name="Address">
+        <modelElement href="CS156%20Project.uml#_fIoCkPE6Ee2C-a5UzEGj-g"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_hjzrovE6Ee2C-a5UzEGj-g" name="Stores">
+      <modelElement href="CS156%20Project.uml#_fI2sEfE6Ee2C-a5UzEGj-g"/>
+      <keywords xmi:id="_hjzro_E6Ee2C-a5UzEGj-g" keyword="create"/>
+      <visibility xmi:id="_hjzrpPE6Ee2C-a5UzEGj-g" label="#"/>
+      <cardinality xmi:id="_hjzrpfE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hjzrpvE6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fI2sG_E6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_hjzrp_E6Ee2C-a5UzEGj-g" name="Stores">
+          <modelElement href="CS156%20Project.uml#_fI2sEPE6Ee2C-a5UzEGj-g"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_hjzrqPE6Ee2C-a5UzEGj-g" name="storeCode">
+        <modelElement href="CS156%20Project.uml#_fI2sEvE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hjzrqfE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hjzrqvE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hjzrq_E6Ee2C-a5UzEGj-g" name="managerCode">
+        <modelElement href="CS156%20Project.uml#_fI2sE_E6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hjzrrPE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hjzrrfE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hjzrrvE6Ee2C-a5UzEGj-g" name="street">
+        <modelElement href="CS156%20Project.uml#_fI2sFPE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hjzrr_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hjzrsPE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hjzrsfE6Ee2C-a5UzEGj-g" name="city">
+        <modelElement href="CS156%20Project.uml#_fI2sFfE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hjzrsvE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hjzrs_E6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hjzrtPE6Ee2C-a5UzEGj-g" name="state">
+        <modelElement href="CS156%20Project.uml#_fI2sFvE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hjzrtfE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hjzrtvE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hjzrt_E6Ee2C-a5UzEGj-g" name="zip">
+        <modelElement href="CS156%20Project.uml#_fI2sF_E6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hjzruPE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hjzrufE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hjzruvE6Ee2C-a5UzEGj-g" name="country">
+        <modelElement href="CS156%20Project.uml#_fI2sGPE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hjzru_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hjzrvPE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_hjzrvfE6Ee2C-a5UzEGj-g" name="getGrandTotal">
+      <modelElement href="CS156%20Project.uml#_fJu10_E6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hjzrvvE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hjzrv_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hjzrwPE6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fJu11fE6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_hjzrwfE6Ee2C-a5UzEGj-g" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_hjzrwvE6Ee2C-a5UzEGj-g" name="invoices">
+        <modelElement href="CS156%20Project.uml#_fJu11PE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hjzrw_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hjzrxPE6Ee2C-a5UzEGj-g" name="List">
+          <modelElement href="CS156%20Project.uml#_fJiBgfE6Ee2C-a5UzEGj-g"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_hjzrxfE6Ee2C-a5UzEGj-g" name="getNumSales">
+      <modelElement href="CS156%20Project.uml#_fJu11_E6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hjzrxvE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hjzrx_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hjzryPE6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fJu12fE6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_hjzryfE6Ee2C-a5UzEGj-g" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_hjzryvE6Ee2C-a5UzEGj-g" name="invoices">
+        <modelElement href="CS156%20Project.uml#_fJu12PE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hjzry_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hjzrzPE6Ee2C-a5UzEGj-g" name="List">
+          <modelElement href="CS156%20Project.uml#_fJiBgfE6Ee2C-a5UzEGj-g"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_hfDucPE6Ee2C-a5UzEGj-g" comments="_hfArIPE6Ee2C-a5UzEGj-g" targetConnectionVisual="_hfCgUPE6Ee2C-a5UzEGj-g" name="InvoiceData">
+    <modelElement href="CS156%20Project.uml#_fIuJMPE6Ee2C-a5UzEGj-g"/>
+    <visualProperties xmi:id="_hfDucfE6Ee2C-a5UzEGj-g" position="-112.0,808.0" size="541.0,313.0"/>
+    <visibility xmi:id="_hfDucvE6Ee2C-a5UzEGj-g" label="+"/>
+    <operations xmi:id="_hfDuc_E6Ee2C-a5UzEGj-g" name="clearDatabase" staticOperation="true">
+      <modelElement href="CS156%20Project.uml#_fIuJMfE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hfDudPE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hfDudfE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+    </operations>
+    <operations xmi:id="_hfDudvE6Ee2C-a5UzEGj-g" name="addPerson" staticOperation="true">
+      <modelElement href="CS156%20Project.uml#_fIuJMvE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hfDud_E6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hfDuePE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <parameters xmi:id="_hfDuefE6Ee2C-a5UzEGj-g" name="personCode">
+        <modelElement href="CS156%20Project.uml#_fIuJM_E6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDuevE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDue_E6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hfDufPE6Ee2C-a5UzEGj-g" name="firstName">
+        <modelElement href="CS156%20Project.uml#_fIuJNPE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDuffE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDufvE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hfDuf_E6Ee2C-a5UzEGj-g" name="lastName">
+        <modelElement href="CS156%20Project.uml#_fIuJNfE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDugPE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDugfE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hfDugvE6Ee2C-a5UzEGj-g" name="street">
+        <modelElement href="CS156%20Project.uml#_fIuJNvE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDug_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDuhPE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hfDuhfE6Ee2C-a5UzEGj-g" name="city">
+        <modelElement href="CS156%20Project.uml#_fIuJN_E6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDuhvE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDuh_E6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hfDuiPE6Ee2C-a5UzEGj-g" name="state">
+        <modelElement href="CS156%20Project.uml#_fIuJOPE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDuifE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDuivE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hfDui_E6Ee2C-a5UzEGj-g" name="zip">
+        <modelElement href="CS156%20Project.uml#_fIuJOfE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDujPE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDujfE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hfDujvE6Ee2C-a5UzEGj-g" name="country">
+        <modelElement href="CS156%20Project.uml#_fIuJOvE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDuj_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDukPE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_hfDukfE6Ee2C-a5UzEGj-g" name="addEmail" staticOperation="true">
+      <modelElement href="CS156%20Project.uml#_fIuJO_E6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hfDukvE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hfDuk_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <parameters xmi:id="_hfDulPE6Ee2C-a5UzEGj-g" name="personCode">
+        <modelElement href="CS156%20Project.uml#_fIuJPPE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDulfE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDulvE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hfDul_E6Ee2C-a5UzEGj-g" name="email">
+        <modelElement href="CS156%20Project.uml#_fIuJPfE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDumPE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDumfE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_hfDumvE6Ee2C-a5UzEGj-g" name="addStore" staticOperation="true">
+      <modelElement href="CS156%20Project.uml#_fIuwQPE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hfDum_E6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hfDunPE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <parameters xmi:id="_hfDunfE6Ee2C-a5UzEGj-g" name="storeCode">
+        <modelElement href="CS156%20Project.uml#_fIuwQfE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDunvE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDun_E6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hfDuoPE6Ee2C-a5UzEGj-g" name="managerCode">
+        <modelElement href="CS156%20Project.uml#_fIuwQvE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDuofE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDuovE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hfDuo_E6Ee2C-a5UzEGj-g" name="street">
+        <modelElement href="CS156%20Project.uml#_fIuwQ_E6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDupPE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDupfE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hfDupvE6Ee2C-a5UzEGj-g" name="city">
+        <modelElement href="CS156%20Project.uml#_fIuwRPE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDup_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDuqPE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hfDuqfE6Ee2C-a5UzEGj-g" name="state">
+        <modelElement href="CS156%20Project.uml#_fIuwRfE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDuqvE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDuq_E6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hfDurPE6Ee2C-a5UzEGj-g" name="zip">
+        <modelElement href="CS156%20Project.uml#_fIuwRvE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDurfE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDurvE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hfDur_E6Ee2C-a5UzEGj-g" name="country">
+        <modelElement href="CS156%20Project.uml#_fIuwR_E6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDusPE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDusfE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_hfDusvE6Ee2C-a5UzEGj-g" name="addProduct" staticOperation="true">
+      <modelElement href="CS156%20Project.uml#_fIuwSPE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hfDus_E6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hfDutPE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <parameters xmi:id="_hfDutfE6Ee2C-a5UzEGj-g" name="code">
+        <modelElement href="CS156%20Project.uml#_fIuwSfE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDutvE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDut_E6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hfDuuPE6Ee2C-a5UzEGj-g" name="name">
+        <modelElement href="CS156%20Project.uml#_fIuwSvE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDuufE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDuuvE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hfDuu_E6Ee2C-a5UzEGj-g" name="unit">
+        <modelElement href="CS156%20Project.uml#_fIuwS_E6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDuvPE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDuvfE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hfDuvvE6Ee2C-a5UzEGj-g" name="pricePerUnit">
+        <modelElement href="CS156%20Project.uml#_fIuwTPE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDuv_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDuwPE6Ee2C-a5UzEGj-g" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_hfDuwfE6Ee2C-a5UzEGj-g" name="addEquipment" staticOperation="true">
+      <modelElement href="CS156%20Project.uml#_fIuwTfE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hfDuwvE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hfDuw_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <parameters xmi:id="_hfDuxPE6Ee2C-a5UzEGj-g" name="code">
+        <modelElement href="CS156%20Project.uml#_fIuwTvE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDuxfE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDuxvE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hfDux_E6Ee2C-a5UzEGj-g" name="name">
+        <modelElement href="CS156%20Project.uml#_fIuwT_E6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDuyPE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDuyfE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hfDuyvE6Ee2C-a5UzEGj-g" name="modelNumber">
+        <modelElement href="CS156%20Project.uml#_fIuwUPE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDuy_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDuzPE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_hfDuzfE6Ee2C-a5UzEGj-g" name="addService" staticOperation="true">
+      <modelElement href="CS156%20Project.uml#_fIuwUfE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hfDuzvE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hfDuz_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <parameters xmi:id="_hfDu0PE6Ee2C-a5UzEGj-g" name="code">
+        <modelElement href="CS156%20Project.uml#_fIuwUvE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDu0fE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDu0vE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hfDu0_E6Ee2C-a5UzEGj-g" name="name">
+        <modelElement href="CS156%20Project.uml#_fIuwU_E6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDu1PE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDu1fE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hfDu1vE6Ee2C-a5UzEGj-g" name="costPerHour">
+        <modelElement href="CS156%20Project.uml#_fIuwVPE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDu1_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDu2PE6Ee2C-a5UzEGj-g" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_hfDu2fE6Ee2C-a5UzEGj-g" name="addInvoice" staticOperation="true">
+      <modelElement href="CS156%20Project.uml#_fIuwVfE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hfDu2vE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hfDu2_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <parameters xmi:id="_hfDu3PE6Ee2C-a5UzEGj-g" name="invoiceCode">
+        <modelElement href="CS156%20Project.uml#_fIuwVvE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDu3fE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDu3vE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hfDu3_E6Ee2C-a5UzEGj-g" name="storeCode">
+        <modelElement href="CS156%20Project.uml#_fIuwV_E6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDu4PE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDu4fE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hfDu4vE6Ee2C-a5UzEGj-g" name="customerCode">
+        <modelElement href="CS156%20Project.uml#_fIuwWPE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDu4_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDu5PE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hfDu5fE6Ee2C-a5UzEGj-g" name="salesPersonCode">
+        <modelElement href="CS156%20Project.uml#_fIuwWfE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDu5vE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDu5_E6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hfDu6PE6Ee2C-a5UzEGj-g" name="invoiceDate">
+        <modelElement href="CS156%20Project.uml#_fIuwWvE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDu6fE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDu6vE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_hfDu6_E6Ee2C-a5UzEGj-g" name="addProductToInvoice" staticOperation="true">
+      <modelElement href="CS156%20Project.uml#_fIvXUPE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hfDu7PE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hfDu7fE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <parameters xmi:id="_hfDu7vE6Ee2C-a5UzEGj-g" name="invoiceCode">
+        <modelElement href="CS156%20Project.uml#_fIvXUfE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDu7_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDu8PE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hfDu8fE6Ee2C-a5UzEGj-g" name="itemCode">
+        <modelElement href="CS156%20Project.uml#_fIvXUvE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDu8vE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDu8_E6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hfDu9PE6Ee2C-a5UzEGj-g" name="quantity">
+        <modelElement href="CS156%20Project.uml#_fIvXU_E6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDu9fE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDu9vE6Ee2C-a5UzEGj-g" name="int">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#int"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_hfDu9_E6Ee2C-a5UzEGj-g" name="addEquipmentToInvoice" staticOperation="true">
+      <modelElement href="CS156%20Project.uml#_fIvXVPE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hfDu-PE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hfDu-fE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <parameters xmi:id="_hfDu-vE6Ee2C-a5UzEGj-g" name="invoiceCode">
+        <modelElement href="CS156%20Project.uml#_fIvXVfE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDu-_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDu_PE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hfDu_fE6Ee2C-a5UzEGj-g" name="itemCode">
+        <modelElement href="CS156%20Project.uml#_fIvXVvE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDu_vE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDu__E6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hfDvAPE6Ee2C-a5UzEGj-g" name="purchasePrice">
+        <modelElement href="CS156%20Project.uml#_fIvXV_E6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDvAfE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDvAvE6Ee2C-a5UzEGj-g" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_hfDvA_E6Ee2C-a5UzEGj-g" name="addEquipmentToInvoice" staticOperation="true">
+      <modelElement href="CS156%20Project.uml#_fIvXWPE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hfDvBPE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hfDvBfE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <parameters xmi:id="_hfDvBvE6Ee2C-a5UzEGj-g" name="invoiceCode">
+        <modelElement href="CS156%20Project.uml#_fIvXWfE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDvB_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDvCPE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hfDvCfE6Ee2C-a5UzEGj-g" name="itemCode">
+        <modelElement href="CS156%20Project.uml#_fIvXWvE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDvCvE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDvC_E6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hfDvDPE6Ee2C-a5UzEGj-g" name="periodFee">
+        <modelElement href="CS156%20Project.uml#_fIvXW_E6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDvDfE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDvDvE6Ee2C-a5UzEGj-g" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hfDvD_E6Ee2C-a5UzEGj-g" name="beginDate">
+        <modelElement href="CS156%20Project.uml#_fIvXXPE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDvEPE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDvEfE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hfDvEvE6Ee2C-a5UzEGj-g" name="endDate">
+        <modelElement href="CS156%20Project.uml#_fIvXXfE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDvE_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDvFPE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_hfDvFfE6Ee2C-a5UzEGj-g" name="addServiceToInvoice" staticOperation="true">
+      <modelElement href="CS156%20Project.uml#_fIvXXvE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hfDvFvE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hfDvF_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <parameters xmi:id="_hfDvGPE6Ee2C-a5UzEGj-g" name="invoiceCode">
+        <modelElement href="CS156%20Project.uml#_fIvXX_E6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDvGfE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDvGvE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hfDvG_E6Ee2C-a5UzEGj-g" name="itemCode">
+        <modelElement href="CS156%20Project.uml#_fIvXYPE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDvHPE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDvHfE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hfDvHvE6Ee2C-a5UzEGj-g" name="billedHours">
+        <modelElement href="CS156%20Project.uml#_fIvXYfE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDvH_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDvIPE6Ee2C-a5UzEGj-g" name="double">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#double"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_hfDvIfE6Ee2C-a5UzEGj-g" name="isNumeric" staticOperation="true">
+      <modelElement href="CS156%20Project.uml#_fIvXYvE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hfDvIvE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hfDvI_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hfDvJPE6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fIvXZPE6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_hfDvJfE6Ee2C-a5UzEGj-g" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_hfDvJvE6Ee2C-a5UzEGj-g" name="num">
+        <modelElement href="CS156%20Project.uml#_fIvXY_E6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDvJ_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDvKPE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_hfDvKfE6Ee2C-a5UzEGj-g" name="isDate" staticOperation="true">
+      <modelElement href="CS156%20Project.uml#_fIvXZfE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hfDvKvE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hfDvK_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hfDvLPE6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fIvXZ_E6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_hfDvLfE6Ee2C-a5UzEGj-g" name="boolean">
+          <modelElement href="pathmap://UML_LIBRARIES/JavaPrimitiveTypes.library.uml#boolean"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_hfDvLvE6Ee2C-a5UzEGj-g" name="date">
+        <modelElement href="CS156%20Project.uml#_fIvXZvE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hfDvL_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hfDvMPE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_hdrOYPE6Ee2C-a5UzEGj-g" name="DatabaseConnector">
+    <modelElement href="CS156%20Project.uml#_fIrF4PE6Ee2C-a5UzEGj-g"/>
+    <visualProperties xmi:id="_hdrOYfE6Ee2C-a5UzEGj-g" position="472.0,825.0" size="375.0,250.0"/>
+    <visibility xmi:id="_hdrOYvE6Ee2C-a5UzEGj-g" label="+"/>
+    <attributes xmi:id="_hdrOY_E6Ee2C-a5UzEGj-g" defaultValue="&quot;?useUnicode=true&amp;useJDBCCompliantTimezoneShift=true&amp;useLegacyDatetimeCode=false&amp;serverTimezone=UTC&quot;" name="PARAMETERS" staticAttribute="true">
+      <modelElement href="CS156%20Project.uml#_fJxSFfE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hdrOZPE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hdrOZfE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hdrOZvE6Ee2C-a5UzEGj-g" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hdrOZ_E6Ee2C-a5UzEGj-g" defaultValue="&quot;hjohs&quot;" name="USERNAME" staticAttribute="true">
+      <modelElement href="CS156%20Project.uml#_fJxSF_E6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hdrOaPE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hdrOafE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hdrOavE6Ee2C-a5UzEGj-g" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hdrOa_E6Ee2C-a5UzEGj-g" defaultValue="&quot;3xx:eV&quot;" name="PASSWORD" staticAttribute="true">
+      <modelElement href="CS156%20Project.uml#_fJxSGfE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hdrObPE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hdrObfE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hdrObvE6Ee2C-a5UzEGj-g" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hdrOb_E6Ee2C-a5UzEGj-g" defaultValue="&quot;jdbc:mysql://cse.unl.edu/&quot; + USERNAME + PARAMETERS" name="URL" staticAttribute="true">
+      <modelElement href="CS156%20Project.uml#_fJxSG_E6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hdrOcPE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hdrOcfE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hdrOcvE6Ee2C-a5UzEGj-g" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_hdrOc_E6Ee2C-a5UzEGj-g" name="openConnection" staticOperation="true">
+      <modelElement href="CS156%20Project.uml#_fIrF4fE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hdrOdPE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hdrOdfE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hdrOdvE6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fJqkZ_E6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_hdrOd_E6Ee2C-a5UzEGj-g" name="Connection">
+          <modelElement href="CS156%20Project.uml#_fJiokfE6Ee2C-a5UzEGj-g"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_hdrOePE6Ee2C-a5UzEGj-g" name="personsReader">
+      <modelElement href="CS156%20Project.uml#_fIrF4vE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hdrOefE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hdrOevE6Ee2C-a5UzEGj-g" label="1..*" max="-1" min="1"/>
+      <outParameters xmi:id="_hdrOe_E6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fIrF4_E6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_hdrOfPE6Ee2C-a5UzEGj-g" name="Persons">
+          <modelElement href="CS156%20Project.uml#_fIzozPE6Ee2C-a5UzEGj-g"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_hdrOffE6Ee2C-a5UzEGj-g" name="storesReader">
+      <modelElement href="CS156%20Project.uml#_fIrF5fE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hdrOfvE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hdrOf_E6Ee2C-a5UzEGj-g" label="1..*" max="-1" min="1"/>
+      <outParameters xmi:id="_hdrOgPE6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fIrF5vE6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_hdrOgfE6Ee2C-a5UzEGj-g" name="Stores">
+          <modelElement href="CS156%20Project.uml#_fI2sEPE6Ee2C-a5UzEGj-g"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_hdrOgvE6Ee2C-a5UzEGj-g" name="itemsReader">
+      <modelElement href="CS156%20Project.uml#_fIrs8PE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hdrOg_E6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hdrOhPE6Ee2C-a5UzEGj-g" label="1..*" max="-1" min="1"/>
+      <outParameters xmi:id="_hdrOhfE6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fIrs8fE6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_hdrOhvE6Ee2C-a5UzEGj-g" name="Items">
+          <modelElement href="CS156%20Project.uml#_fIzBtvE6Ee2C-a5UzEGj-g"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_hdrOh_E6Ee2C-a5UzEGj-g" name="invoiceReader">
+      <modelElement href="CS156%20Project.uml#_fJqkaPE6Ee2C-a5UzEGj-g"/>
+      <stereotypes xmi:id="_hdrOiPE6Ee2C-a5UzEGj-g" name="Generics">
+        <modelElement href="CS156%20Project.uml#_fJrLcPE6Ee2C-a5UzEGj-g"/>
+      </stereotypes>
+      <visibility xmi:id="_hdrOifE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hdrOivE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <outParameters xmi:id="_hdrOi_E6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fJrLcfE6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_hdrOjPE6Ee2C-a5UzEGj-g" name="InvoiceList">
+          <modelElement href="CS156%20Project.uml#_fIxMgPE6Ee2C-a5UzEGj-g"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_hdrOjfE6Ee2C-a5UzEGj-g" name="items">
+        <modelElement href="CS156%20Project.uml#_fJqkafE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hdrOjvE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hdrOj_E6Ee2C-a5UzEGj-g" name="List">
+          <modelElement href="CS156%20Project.uml#_fJiBgfE6Ee2C-a5UzEGj-g"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hdrOkPE6Ee2C-a5UzEGj-g" name="persons">
+        <modelElement href="CS156%20Project.uml#_fJqkavE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hdrOkfE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hdrOkvE6Ee2C-a5UzEGj-g" name="List">
+          <modelElement href="CS156%20Project.uml#_fJiBgfE6Ee2C-a5UzEGj-g"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_hhv2EPE6Ee2C-a5UzEGj-g" name="JsonSerializer">
+    <modelElement href="CS156%20Project.uml#_fIzoy_E6Ee2C-a5UzEGj-g"/>
+    <visualProperties xmi:id="_hhv2EfE6Ee2C-a5UzEGj-g" position="488.0,1112.0" size="284.0,110.0"/>
+    <visibility xmi:id="_hhv2EvE6Ee2C-a5UzEGj-g" label="+"/>
+    <operations xmi:id="_hhv2E_E6Ee2C-a5UzEGj-g" name="serialize" staticOperation="true">
+      <modelElement href="CS156%20Project.uml#_fJtAofE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hhv2FPE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hhv2FfE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <parameters xmi:id="_hhv2FvE6Ee2C-a5UzEGj-g" name="fileName">
+        <modelElement href="CS156%20Project.uml#_fJtAovE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hhv2F_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hhv2GPE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hhv2GfE6Ee2C-a5UzEGj-g" name="list">
+        <modelElement href="CS156%20Project.uml#_fJtAo_E6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hhv2GvE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hhv2G_E6Ee2C-a5UzEGj-g" name="List">
+          <modelElement href="CS156%20Project.uml#_fJiBgfE6Ee2C-a5UzEGj-g"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_hhL1YfE6Ee2C-a5UzEGj-g" comments="_hhIyEPE6Ee2C-a5UzEGj-g" targetConnectionVisual="_hhL1YPE6Ee2C-a5UzEGj-g" name="InvoiceReport">
+    <modelElement href="CS156%20Project.uml#_fIzBsPE6Ee2C-a5UzEGj-g"/>
+    <visualProperties xmi:id="_hhL1YvE6Ee2C-a5UzEGj-g" position="181.0,1134.0" size="255.0,130.0"/>
+    <visibility xmi:id="_hhL1Y_E6Ee2C-a5UzEGj-g" label="+"/>
+    <attributes xmi:id="_hhL1ZPE6Ee2C-a5UzEGj-g" defaultValue="&quot;data/Persons.json&quot;" name="personsJson" staticAttribute="true">
+      <modelElement href="CS156%20Project.uml#_fJzHRPE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hhL1ZfE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hhL1ZvE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hhL1Z_E6Ee2C-a5UzEGj-g" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hhL1aPE6Ee2C-a5UzEGj-g" defaultValue="&quot;data/Stores.json&quot;" name="storesJson" staticAttribute="true">
+      <modelElement href="CS156%20Project.uml#_fJzHRvE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hhL1afE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hhL1avE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hhL1a_E6Ee2C-a5UzEGj-g" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hhL1bPE6Ee2C-a5UzEGj-g" defaultValue="&quot;data/Items.json&quot;" name="itemsJson" staticAttribute="true">
+      <modelElement href="CS156%20Project.uml#_fJzHSPE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hhL1bfE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hhL1bvE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hhL1b_E6Ee2C-a5UzEGj-g" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_hhL1cPE6Ee2C-a5UzEGj-g" name="main" staticOperation="true">
+      <modelElement href="CS156%20Project.uml#_fIzBsfE6Ee2C-a5UzEGj-g"/>
+      <stereotypes xmi:id="_hhL1cfE6Ee2C-a5UzEGj-g" name="LegacyStyledElement">
+        <modelElement href="CS156%20Project.uml#_fIzBs_E6Ee2C-a5UzEGj-g"/>
+      </stereotypes>
+      <visibility xmi:id="_hhL1cvE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hhL1c_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <parameters xmi:id="_hhL1dPE6Ee2C-a5UzEGj-g" name="args">
+        <modelElement href="CS156%20Project.uml#_fIzBsvE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hhL1dfE6Ee2C-a5UzEGj-g" label="1..*" max="-1" min="1"/>
+        <type xmi:id="_hhL1dvE6Ee2C-a5UzEGj-g" name="String">
+          <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_hdExcPE6Ee2C-a5UzEGj-g" name="CSVReader">
+    <modelElement href="CS156%20Project.uml#_fIp3wPE6Ee2C-a5UzEGj-g"/>
+    <visualProperties xmi:id="_hdFYgPE6Ee2C-a5UzEGj-g" position="-100.0,1138.0" size="247.0,224.0"/>
+    <visibility xmi:id="_hdFYgfE6Ee2C-a5UzEGj-g" label="+"/>
+    <attributes xmi:id="_hdFYgvE6Ee2C-a5UzEGj-g" defaultValue="&quot;data/Persons.csv&quot;" name="personsFile" staticAttribute="true">
+      <modelElement href="CS156%20Project.uml#_fJwrEPE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hdFYg_E6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hdFYhPE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hdFYhfE6Ee2C-a5UzEGj-g" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hdFYhvE6Ee2C-a5UzEGj-g" defaultValue="&quot;data/Stores.csv&quot;" name="storesFile" staticAttribute="true">
+      <modelElement href="CS156%20Project.uml#_fJwrEvE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hdFYh_E6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hdFYiPE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hdFYifE6Ee2C-a5UzEGj-g" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hdFYivE6Ee2C-a5UzEGj-g" defaultValue="&quot;data/Items.csv&quot;" name="itemsFile" staticAttribute="true">
+      <modelElement href="CS156%20Project.uml#_fJwrFPE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hdFYi_E6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hdFYjPE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hdFYjfE6Ee2C-a5UzEGj-g" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hdFYjvE6Ee2C-a5UzEGj-g" defaultValue="&quot;data/Invoices.csv&quot;" name="invoiceFile" staticAttribute="true">
+      <modelElement href="CS156%20Project.uml#_fJxSEfE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hdFYj_E6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hdFYkPE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hdFYkfE6Ee2C-a5UzEGj-g" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <attributes xmi:id="_hdFYkvE6Ee2C-a5UzEGj-g" defaultValue="&quot;data/InvoiceItems.csv&quot;" name="invoiceItemsFile" staticAttribute="true">
+      <modelElement href="CS156%20Project.uml#_fJxSE_E6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hdFYk_E6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hdFYlPE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <type xmi:id="_hdFYlfE6Ee2C-a5UzEGj-g" name="String">
+        <modelElement href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#String"/>
+      </type>
+    </attributes>
+    <operations xmi:id="_hdFYlvE6Ee2C-a5UzEGj-g" name="personsReader" staticOperation="true">
+      <modelElement href="CS156%20Project.uml#_fIp3wfE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hdFYl_E6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hdFYmPE6Ee2C-a5UzEGj-g" label="1..*" max="-1" min="1"/>
+      <outParameters xmi:id="_hdFYmfE6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fIqe0PE6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_hdFYmvE6Ee2C-a5UzEGj-g" name="Persons">
+          <modelElement href="CS156%20Project.uml#_fIzozPE6Ee2C-a5UzEGj-g"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_hdFYm_E6Ee2C-a5UzEGj-g" name="storesReader" staticOperation="true">
+      <modelElement href="CS156%20Project.uml#_fIqe0vE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hdFYnPE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hdFYnfE6Ee2C-a5UzEGj-g" label="1..*" max="-1" min="1"/>
+      <outParameters xmi:id="_hdFYnvE6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fIqe0_E6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_hdFYn_E6Ee2C-a5UzEGj-g" name="Stores">
+          <modelElement href="CS156%20Project.uml#_fI2sEPE6Ee2C-a5UzEGj-g"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_hdFYoPE6Ee2C-a5UzEGj-g" name="itemsReader" staticOperation="true">
+      <modelElement href="CS156%20Project.uml#_fIqe1fE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hdFYofE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hdFYovE6Ee2C-a5UzEGj-g" label="1..*" max="-1" min="1"/>
+      <outParameters xmi:id="_hdFYo_E6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fIqe1vE6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_hdFYpPE6Ee2C-a5UzEGj-g" name="Items">
+          <modelElement href="CS156%20Project.uml#_fIzBtvE6Ee2C-a5UzEGj-g"/>
+        </type>
+      </outParameters>
+    </operations>
+    <operations xmi:id="_hdFYpfE6Ee2C-a5UzEGj-g" name="invoiceReader" staticOperation="true">
+      <modelElement href="CS156%20Project.uml#_fJqkYPE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hdFYpvE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hdFYp_E6Ee2C-a5UzEGj-g" label="1..*" max="-1" min="1"/>
+      <outParameters xmi:id="_hdFYqPE6Ee2C-a5UzEGj-g">
+        <modelElement href="CS156%20Project.uml#_fJqkY_E6Ee2C-a5UzEGj-g"/>
+        <type xmi:id="_hdFYqfE6Ee2C-a5UzEGj-g" name="Invoice">
+          <modelElement href="CS156%20Project.uml#_fIsUC_E6Ee2C-a5UzEGj-g"/>
+        </type>
+      </outParameters>
+      <parameters xmi:id="_hdFYqvE6Ee2C-a5UzEGj-g" name="items">
+        <modelElement href="CS156%20Project.uml#_fJqkYfE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hdFYq_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hdFYrPE6Ee2C-a5UzEGj-g" name="List">
+          <modelElement href="CS156%20Project.uml#_fJiBgfE6Ee2C-a5UzEGj-g"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hdFYrfE6Ee2C-a5UzEGj-g" name="persons">
+        <modelElement href="CS156%20Project.uml#_fJqkYvE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hdFYrvE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hdFYr_E6Ee2C-a5UzEGj-g" name="List">
+          <modelElement href="CS156%20Project.uml#_fJiBgfE6Ee2C-a5UzEGj-g"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+  <nodes xsi:type="com.yattasolutions.uml.diagrams.classifier:ClassifierVisual" xmi:id="_hidnwPE6Ee2C-a5UzEGj-g" name="ReportGenerator">
+    <modelElement href="CS156%20Project.uml#_fI1d8PE6Ee2C-a5UzEGj-g"/>
+    <visualProperties xmi:id="_hidnwfE6Ee2C-a5UzEGj-g" position="182.0,1271.0" size="235.0,125.0"/>
+    <visibility xmi:id="_hidnwvE6Ee2C-a5UzEGj-g" label="+"/>
+    <operations xmi:id="_hidnw_E6Ee2C-a5UzEGj-g" name="salesReport">
+      <modelElement href="CS156%20Project.uml#_fJtnt_E6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hidnxPE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hidnxfE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <parameters xmi:id="_hidnxvE6Ee2C-a5UzEGj-g" name="invoices">
+        <modelElement href="CS156%20Project.uml#_fJtnuPE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hidnx_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hidnyPE6Ee2C-a5UzEGj-g" name="List">
+          <modelElement href="CS156%20Project.uml#_fJiBgfE6Ee2C-a5UzEGj-g"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hidnyfE6Ee2C-a5UzEGj-g" name="persons">
+        <modelElement href="CS156%20Project.uml#_fJtnufE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hidnyvE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hidny_E6Ee2C-a5UzEGj-g" name="List">
+          <modelElement href="CS156%20Project.uml#_fJiBgfE6Ee2C-a5UzEGj-g"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_hidnzPE6Ee2C-a5UzEGj-g" name="storeReport">
+      <modelElement href="CS156%20Project.uml#_fJuOwfE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hidnzfE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hidnzvE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <parameters xmi:id="_hidnz_E6Ee2C-a5UzEGj-g" name="invoices">
+        <modelElement href="CS156%20Project.uml#_fJuOwvE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hidn0PE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hidn0fE6Ee2C-a5UzEGj-g" name="List">
+          <modelElement href="CS156%20Project.uml#_fJiBgfE6Ee2C-a5UzEGj-g"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hidn0vE6Ee2C-a5UzEGj-g" name="stores">
+        <modelElement href="CS156%20Project.uml#_fJuOw_E6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hidn0_E6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hidn1PE6Ee2C-a5UzEGj-g" name="List">
+          <modelElement href="CS156%20Project.uml#_fJiBgfE6Ee2C-a5UzEGj-g"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hidn1fE6Ee2C-a5UzEGj-g" name="persons">
+        <modelElement href="CS156%20Project.uml#_fJuOxPE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hidn1vE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hidn1_E6Ee2C-a5UzEGj-g" name="List">
+          <modelElement href="CS156%20Project.uml#_fJiBgfE6Ee2C-a5UzEGj-g"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_hidn2PE6Ee2C-a5UzEGj-g" name="invoiceReport">
+      <modelElement href="CS156%20Project.uml#_fJuOyPE6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hidn2fE6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hidn2vE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <parameters xmi:id="_hidn2_E6Ee2C-a5UzEGj-g" name="invoices">
+        <modelElement href="CS156%20Project.uml#_fJuOyfE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hidn3PE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hidn3fE6Ee2C-a5UzEGj-g" name="List">
+          <modelElement href="CS156%20Project.uml#_fJiBgfE6Ee2C-a5UzEGj-g"/>
+        </type>
+      </parameters>
+    </operations>
+    <operations xmi:id="_hidn3vE6Ee2C-a5UzEGj-g" name="sortedSalesReport">
+      <modelElement href="CS156%20Project.uml#_fJuOy_E6Ee2C-a5UzEGj-g"/>
+      <visibility xmi:id="_hidn3_E6Ee2C-a5UzEGj-g" label="+"/>
+      <cardinality xmi:id="_hidn4PE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+      <parameters xmi:id="_hidn4fE6Ee2C-a5UzEGj-g" name="invoices">
+        <modelElement href="CS156%20Project.uml#_fJuOzPE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hidn4vE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hidn4_E6Ee2C-a5UzEGj-g" name="List">
+          <modelElement href="CS156%20Project.uml#_fJiBgfE6Ee2C-a5UzEGj-g"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hidn5PE6Ee2C-a5UzEGj-g" name="stores">
+        <modelElement href="CS156%20Project.uml#_fJuOzfE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hidn5fE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hidn5vE6Ee2C-a5UzEGj-g" name="List">
+          <modelElement href="CS156%20Project.uml#_fJiBgfE6Ee2C-a5UzEGj-g"/>
+        </type>
+      </parameters>
+      <parameters xmi:id="_hidn5_E6Ee2C-a5UzEGj-g" name="persons">
+        <modelElement href="CS156%20Project.uml#_fJuOzvE6Ee2C-a5UzEGj-g"/>
+        <cardinality xmi:id="_hidn6PE6Ee2C-a5UzEGj-g" label="1" max="1" min="1"/>
+        <type xmi:id="_hidn6fE6Ee2C-a5UzEGj-g" name="List">
+          <modelElement href="CS156%20Project.uml#_fJiBgfE6Ee2C-a5UzEGj-g"/>
+        </type>
+      </parameters>
+    </operations>
+  </nodes>
+</com.yattasolutions.uml.diagrams.classifier:ClassDiagram>

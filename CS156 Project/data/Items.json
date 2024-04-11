@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Harvester",
+    "model": "UltraHarvester 2.0",
+    "code": "6ezu05"
+  },
+  {
+    "name": "Tractor",
+    "model": "CoolTrac 14",
+    "code": "r6x22n"
+  },
+  {
+    "name": "Mower",
+    "model": "GrassShredder 5",
+    "code": "l0jes8"
+  },
+  {
+    "name": "Potato seed",
+    "unit": "bag",
+    "unitPrice": 20.0,
+    "code": "eqzpmm"
+  },
+  {
+    "name": "Haybale",
+    "unit": "bale",
+    "unitPrice": 350.0,
+    "code": "eyhls0"
+  },
+  {
+    "name": "Mowing",
+    "hourlyRate": 100.0,
+    "code": "3tfu7n"
+  },
+  {
+    "name": "Trimming",
+    "hourlyRate": 65.0,
+    "code": "rsx475"
+  },
+  {
+    "name": "Fertilizing",
+    "hourlyRate": 200.0,
+    "code": "5oxmy9"
+  }
+]
